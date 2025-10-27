@@ -8,13 +8,14 @@ if (!showingDialogue) {
 	currentDialogue = dialogue.pop(); // get first line in list
 	showingDialogue = true;
 } else {
-	var _len = string_length(currentDialogue);
+	var _len = string_length(currentDialogue.message);
 	if (keyboard_check_released(keyNext)) {
 		if (charCurrent < _len)
 		{
 			charCurrent = _len;
 		} else {
 			showingDialogue = false;
+			currentDialogue.message = scr_stringWrap(currentDialogue.message, textMaxWidth);
 			charCurrent = 0;
 		}
     }
