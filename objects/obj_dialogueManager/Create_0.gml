@@ -2,7 +2,9 @@
 
 dialogue = new scr_dialogue(); // new dialogue object
 
-keyNext = vk_anykey; // what key to press to advance dialogue
+keyNext = vk_space; // what key to press to advance dialogue
 showingDialogue = false; // whether the dialogue should be showing rn
 currentDialogue = {}; // which line
-alpha = 0; // for fading transitions
+
+charCurrent = 1;
+charSpeed = 0.25;

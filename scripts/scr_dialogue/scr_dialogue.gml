@@ -1,6 +1,6 @@
 // Note: one dialogue is one conversation (imagine that you can't do anything else until it's over)
 
-function scr_dialogueSystem() constructor {
+function scr_dialogue() constructor {
 	// partially taken from this tutorial: https://www.youtube.com/watch?v=k3AAxKOl-yU
 	_dialogueList = [];
 	
