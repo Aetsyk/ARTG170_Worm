@@ -1,19 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dialogueTest",
+  "%Name":"obj_bm_firstInteraction",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_dialogueTest",
+  "name":"obj_bm_firstInteraction",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Dialogue",
+    "path":"folders/Objects/Dialogue.yy",
   },
   "parentObjectId":{
-    "name":"obj_dialogueManager",
-    "path":"objects/obj_dialogueManager/obj_dialogueManager.yy",
+    "name":"obj_dialogueParent",
+    "path":"objects/obj_dialogueParent/obj_dialogueParent.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

@@ -2,7 +2,7 @@
 
 function scr_dialogue() constructor {
 	// partially taken from this tutorial: https://www.youtube.com/watch?v=k3AAxKOl-yU
-	_dialogueList = [];
+	_dialogueList = []; // list of LINES
 	
 	add = function(_character, _message) { // add a line of dialogue. params: character name + dialogue contents
 		array_push(_dialogueList, {
