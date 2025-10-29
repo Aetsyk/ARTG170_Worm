@@ -5,7 +5,7 @@ img_list = {
 	west : spr_buddy
 }
 
-x = 812;
+x = 860;
 y = 540;
 
 /// @function        updateScene();
