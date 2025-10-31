@@ -8,4 +8,6 @@ if (inventoryManager.currentlyHovered == itemName) {
 	inventoryManager.currentlyHovered = "none";
 } else {
 	inventoryManager.currentlyHovered = itemName;
+	isHovering = true;
+	image_blend = c_dkgrey;
 }

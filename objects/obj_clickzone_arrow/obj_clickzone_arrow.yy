@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_clickzone_warp",
+  "%Name":"obj_clickzone_arrow",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_clickzone_warp",
+  "name":"obj_clickzone_arrow",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,7 +26,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"destination","filters":[],"listItems":[],"multiselect":false,"name":"destination","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_area2","path":"rooms/rm_area2/rm_area2.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_area2","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"destination","filters":[],"listItems":[],"multiselect":false,"name":"destination","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_area2","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"req_direction","filters":[],"listItems":[],"multiselect":false,"name":"req_direction","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"south\"","varType":2,},
   ],
   "resourceType":"GMObject",

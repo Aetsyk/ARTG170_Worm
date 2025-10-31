@@ -1,6 +1,11 @@
-if (!seenDialogue1 && inventoryManager.inventory.getItemIndex("crocodile") > -1 && inventoryManager.currentlyHovered == "crocodile") {
+if (!seenDialogue1) {
 	dialogue1.startDialogue = true;
 	seenDialogue1 = true;
-	inventoryManager.items[inventoryManager.inventory.getItemIndex("crocodile")].sprite_index = spr_textbox;
-	inventoryManager.inventory.consume("crocodile");
 }
+if (seenDialogue1 && inventoryManager.inventory.getItemIndex("worm") > -1 && inventoryManager.currentlyHovered == "worm") {
+	dialogue2.startDialogue = true;
+	inventoryManager.items[inventoryManager.inventory.getItemIndex("worm")].sprite_index = spr_textbox;
+	inventoryManager.inventory.consume("worm");
+}
+
+// eventually use a global variable manager

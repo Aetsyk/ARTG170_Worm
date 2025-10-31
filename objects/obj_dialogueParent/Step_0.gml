@@ -11,6 +11,7 @@ if (startDialogue) {
 		showingDialogue = true;	
 	} else {
 		var _len = string_length(currentDialogueLine.message);
+		currentDialogueLine.message = scr_stringWrap(currentDialogueLine.message, textMaxWidth);
 		
 		if (keyboard_check_released(keyNext)) {
 			if (charCurrent < _len)
@@ -18,7 +19,6 @@ if (startDialogue) {
 				charCurrent = _len;
 			} else {
 				showingDialogue = false;
-				//currentDialogueLine.message = scr_stringWrap(currentDialogueLine.message, textMaxWidth);
 				charCurrent = 0;
 			}
 	    }

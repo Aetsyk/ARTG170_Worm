@@ -8,6 +8,7 @@ if (showingDialogue) {
 	
 	height = string_height(currentDialogueLine.message) + string_height(currentDialogueLine.character);
 	height += padding * 4;
+	height += padding * 2
 	textX += padding * 2;
 	textY -= height;
 	textY += padding * 2;
@@ -41,5 +42,5 @@ if (showingDialogue) {
 	}
 	
 	var _str = string_copy(currentDialogueLine.message, 1, charCurrent);
-	draw_text(textX, textY + string_height(currentDialogueLine.character) + padding,  _str);
+	draw_text(textX, textY + string_height(currentDialogueLine.character) + (padding*3),  _str);
 }

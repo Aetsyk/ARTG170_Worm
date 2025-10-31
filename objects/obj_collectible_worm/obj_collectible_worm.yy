@@ -1,18 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"obj_collectible",
+  "%Name":"obj_collectible_worm",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_collectible",
+  "name":"obj_collectible_worm",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
-  "persistent":true,
+  "parentObjectId":{
+    "name":"obj_collectibleParent",
+    "path":"objects/obj_collectibleParent/obj_collectibleParent.yy",
+  },
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -26,14 +29,14 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"inventoryManager","filters":[],"listItems":[],"multiselect":false,"name":"inventoryManager","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_inventory","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"flavorText","filters":[],"listItems":[],"multiselect":false,"name":"flavorText","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_ft_worm","path":"objects/obj_ft_worm/obj_ft_worm.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_ft_worm","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_enemy",
-    "path":"sprites/spr_enemy/spr_enemy.yy",
+    "name":"spr_tiny_werm",
+    "path":"sprites/spr_tiny_werm/spr_tiny_werm.yy",
   },
   "spriteMaskId":null,
   "visible":true,

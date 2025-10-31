@@ -3,7 +3,7 @@
 /// @param  {real}      _width   The maximum width of the text before a line break is inserted
 /// @description        Take a string and add line breaks so that it doesn't overflow the maximum width
 
-function src_stringWrap(_text, _width) {
+function scr_stringWrap(_text, _width) {
 	var _text_wrapped = "";
 	var _space = -1;
 	var _char_pos = 1;

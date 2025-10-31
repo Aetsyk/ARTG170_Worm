@@ -29,14 +29,15 @@
     {"$GMObjectProperty":"v2","%Name":"dialogue1","filters":[],"listItems":[],"multiselect":false,"name":"dialogue1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_bm_firstInteraction","path":"objects/obj_bm_firstInteraction/obj_bm_firstInteraction.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_bm_firstInteraction","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"seenDialogue1","filters":[],"listItems":[],"multiselect":false,"name":"seenDialogue1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
     {"$GMObjectProperty":"v2","%Name":"inventoryManager","filters":[],"listItems":[],"multiselect":false,"name":"inventoryManager","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_inventory","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"dialogue2","filters":[],"listItems":[],"multiselect":false,"name":"dialogue2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_bm_giveWorm","path":"objects/obj_bm_giveWorm/obj_bm_giveWorm.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_bm_giveWorm","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_buddy",
-    "path":"sprites/spr_buddy/spr_buddy.yy",
+    "name":"spr_bm1",
+    "path":"sprites/spr_bm1/spr_bm1.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

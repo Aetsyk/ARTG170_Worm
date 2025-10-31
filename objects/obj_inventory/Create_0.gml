@@ -11,7 +11,7 @@ itemWidth = 32 * 3 / 2;
 currentlyHovered = "";
 items = [];
 
-x = 1448;
+x = 1400;
 y = 540;
 
 image_xscale = 4.34375;
