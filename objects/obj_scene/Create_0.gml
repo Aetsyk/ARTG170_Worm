@@ -5,6 +5,9 @@ img_list = {
 	west : spr_buddy
 }
 
+x = 860;
+y = 540;
+
 /// @function        updateScene();
 /// @description     Updates image in scene depending on player direction
 function updateScene() {

@@ -29,7 +29,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"bttn_txt","filters":[],"listItems":[],"multiselect":false,"name":"bttn_txt","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Explode.\"","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"bttn_txt","filters":[],"listItems":[],"multiselect":false,"name":"bttn_txt","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Explode.\"","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
