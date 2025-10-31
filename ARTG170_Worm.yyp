@@ -2,13 +2,13 @@
   "$GMProject":"v1",
   "%Name":"ARTG170_Worm",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -32,7 +32,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.14.0.207",
   },
   "name":"ARTG170_Worm",
   "resources":[
@@ -46,8 +46,8 @@
     {"id":{"name":"obj_character","path":"objects/obj_character/obj_character.yy",},},
     {"id":{"name":"obj_clickzone_rotate","path":"objects/obj_clickzone_rotate/obj_clickzone_rotate.yy",},},
     {"id":{"name":"obj_clickzone_warp","path":"objects/obj_clickzone_warp/obj_clickzone_warp.yy",},},
+    {"id":{"name":"obj_collectible","path":"objects/obj_collectible/obj_collectible.yy",},},
     {"id":{"name":"obj_dialogueParent","path":"objects/obj_dialogueParent/obj_dialogueParent.yy",},},
-    {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_gameManager","path":"objects/obj_gameManager/obj_gameManager.yy",},},
     {"id":{"name":"obj_inventory_item","path":"objects/obj_inventory_item/obj_inventory_item.yy",},},
     {"id":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},},
@@ -58,8 +58,9 @@
     {"id":{"name":"rm_area1","path":"rooms/rm_area1/rm_area1.yy",},},
     {"id":{"name":"rm_area2","path":"rooms/rm_area2/rm_area2.yy",},},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
+    {"id":{"name":"RoomUI","path":"roomui/RoomUI/RoomUI.yy",},},
     {"id":{"name":"scr_dialogue","path":"scripts/scr_dialogue/scr_dialogue.yy",},},
-    {"id":{"name":"scr_itemlist","path":"scripts/scr_itemlist/scr_itemlist.yy",},},
+    {"id":{"name":"scr_inventory","path":"scripts/scr_inventory/scr_inventory.yy",},},
     {"id":{"name":"scr_screenSize","path":"scripts/scr_screenSize/scr_screenSize.yy",},},
     {"id":{"name":"scr_stringWrap","path":"scripts/scr_stringWrap/scr_stringWrap.yy",},},
     {"id":{"name":"img_area1e","path":"sprites/img_area1e/img_area1e.yy",},},

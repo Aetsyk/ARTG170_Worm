@@ -26,8 +26,8 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"destination","filters":[],"listItems":[],"multiselect":false,"name":"destination","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_area2","path":"rooms/rm_area2/rm_area2.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_area2","varType":5,},
-    {"$GMObjectProperty":"v1","%Name":"req_direction","filters":[],"listItems":[],"multiselect":false,"name":"req_direction","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"south\"","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"destination","filters":[],"listItems":[],"multiselect":false,"name":"destination","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_area2","path":"rooms/rm_area2/rm_area2.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_area2","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"req_direction","filters":[],"listItems":[],"multiselect":false,"name":"req_direction","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"south\"","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

@@ -18,7 +18,7 @@ if (startDialogue) {
 				charCurrent = _len;
 			} else {
 				showingDialogue = false;
-				currentDialogueLine.message = scr_stringWrap(currentDialogueLine.message, textMaxWidth);
+				//currentDialogueLine.message = scr_stringWrap(currentDialogueLine.message, textMaxWidth);
 				charCurrent = 0;
 			}
 	    }
