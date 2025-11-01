@@ -47,6 +47,7 @@
     {"name":"scr_dialogue","order":3,"path":"scripts/scr_dialogue/scr_dialogue.yy",},
     {"name":"scr_inventory","order":2,"path":"scripts/scr_inventory/scr_inventory.yy",},
     {"name":"scr_stringWrap","order":1,"path":"scripts/scr_stringWrap/scr_stringWrap.yy",},
+    {"name":"sfx_positive","order":1,"path":"sounds/sfx_positive/sfx_positive.yy",},
     {"name":"img_area1e","order":6,"path":"sprites/img_area1e/img_area1e.yy",},
     {"name":"img_area1n","order":3,"path":"sprites/img_area1n/img_area1n.yy",},
     {"name":"img_area1s","order":7,"path":"sprites/img_area1s/img_area1s.yy",},

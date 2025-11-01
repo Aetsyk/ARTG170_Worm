@@ -13,7 +13,7 @@ if (startDialogue) {
 		var _len = string_length(currentDialogueLine.message);
 		currentDialogueLine.message = scr_stringWrap(currentDialogueLine.message, textMaxWidth);
 		
-		if (keyboard_check_released(keyNext)) {
+		if (keyboard_check_released(keyNext) || mouse_check_button_pressed(mb_left)) {
 			if (charCurrent < _len)
 			{
 				charCurrent = _len;

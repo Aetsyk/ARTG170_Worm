@@ -70,6 +70,8 @@
     {"id":{"name":"scr_inventory","path":"scripts/scr_inventory/scr_inventory.yy",},},
     {"id":{"name":"scr_screenSize","path":"scripts/scr_screenSize/scr_screenSize.yy",},},
     {"id":{"name":"scr_stringWrap","path":"scripts/scr_stringWrap/scr_stringWrap.yy",},},
+    {"id":{"name":"sfx_interact","path":"sounds/sfx_interact/sfx_interact.yy",},},
+    {"id":{"name":"sfx_positive","path":"sounds/sfx_positive/sfx_positive.yy",},},
     {"id":{"name":"img_area1e","path":"sprites/img_area1e/img_area1e.yy",},},
     {"id":{"name":"img_area1n","path":"sprites/img_area1n/img_area1n.yy",},},
     {"id":{"name":"img_area1s","path":"sprites/img_area1s/img_area1s.yy",},},
