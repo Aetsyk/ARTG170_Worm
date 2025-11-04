@@ -15,7 +15,7 @@
     "name":"obj_dialogueParent",
     "path":"objects/obj_dialogueParent/obj_dialogueParent.yy",
   },
-  "persistent":false,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,

@@ -42,5 +42,5 @@ if (showingDialogue) {
 	}
 	
 	var _str = string_copy(currentDialogueLine.message, 1, charCurrent);
-	draw_text(textX, textY + string_height(currentDialogueLine.character) + (padding*3),  _str);
+	draw_text(textX, textY + string_height(currentDialogueLine.character) + (padding*4),  _str);
 }

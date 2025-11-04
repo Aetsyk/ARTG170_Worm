@@ -5,7 +5,9 @@
 //sprite_index = spr_enemy;
 if (inventoryManager.currentlyHovered == itemName) {
 	// unselect if already selected
-	inventoryManager.currentlyHovered = "none";
+	inventoryManager.currentlyHovered = "";
+	isHovering = false;
+	image_blend = c_white;
 } else {
 	inventoryManager.currentlyHovered = itemName;
 	isHovering = true;

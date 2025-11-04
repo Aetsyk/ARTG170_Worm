@@ -3,7 +3,6 @@
 // this is to prevent the inventory from appearing on the title screen
 // maybe each inventory object is one page of items? to handle multi-page inventory (eventually)
 
-inventory = new scr_inventory();
 maxInvSpace = 5;
 padding = 20;
 itemHeight = 32 * 3 / 2;
@@ -21,6 +20,7 @@ var _height = 0;
 
 for (var i = 0; i < maxInvSpace; i++) {
 	var item = instance_create_layer(x, bbox_top + itemHeight + padding + _height, "GUI", obj_inventory_item);
+	item.itemName = "empty" + i;
 	array_push(items, item);
 	_height += itemHeight * 2;
 	_height += padding;

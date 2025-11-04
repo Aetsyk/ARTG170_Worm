@@ -1,9 +1,10 @@
 if (startDialogue) {
+	global.dialoguePlaying = true;
 	if (!showingDialogue) {
 		if (dialogue.count() <= 0) {
 			instance_destroy(); // out of lines
 			dialogueEnd = true;
-			
+			global.dialoguePlaying = false;
 			return;
 		}
 	

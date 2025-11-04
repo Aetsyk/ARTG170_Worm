@@ -1,3 +1,12 @@
+// keeps global vars
+
 global.playerfacing = "north";
 
-// consider keeping dialogue variables here instead of per dialogue item
+global.sawCutscene = false;
+
+global.inventory = new scr_inventory();
+
+// dialogue variables
+global.dialoguePlaying = false;
+global.seenDialogue1 = false;
+global.gotWorm = false;
