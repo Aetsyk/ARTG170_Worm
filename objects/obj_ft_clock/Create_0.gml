@@ -1,5 +1,5 @@
 // Inherit the parent event
 event_inherited();
 
-dialogue.add("YOU", "The clock. It's broken, I think.");
-dialogue.add("YOU", "The hands don't move anymore, but somehow, it still ticks.");
+dialogue.add("YOU", "Its hands are stuck at 3:24.");
+dialogue.add("YOU", "Somehow, it still ticks.");
