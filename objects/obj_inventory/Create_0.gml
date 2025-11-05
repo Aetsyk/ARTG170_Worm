@@ -20,7 +20,7 @@ var _height = 0;
 
 for (var i = 0; i < maxInvSpace; i++) {
 	var item = instance_create_layer(x, bbox_top + itemHeight + padding + _height, "GUI", obj_inventory_item);
-	item.itemName = "empty" + i;
+	item.itemName = "empty" + string(i);
 	array_push(items, item);
 	_height += itemHeight * 2;
 	_height += padding;

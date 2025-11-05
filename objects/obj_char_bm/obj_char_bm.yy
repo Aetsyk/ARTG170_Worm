@@ -3,6 +3,8 @@
   "%Name":"obj_char_bm",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_char_bm",
@@ -29,6 +31,7 @@
     {"$GMObjectProperty":"v2","%Name":"dialogue1","filters":[],"listItems":[],"multiselect":false,"name":"dialogue1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_bm_firstInteraction","path":"objects/obj_bm_firstInteraction/obj_bm_firstInteraction.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_bm_firstInteraction","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"inventoryManager","filters":[],"listItems":[],"multiselect":false,"name":"inventoryManager","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_inventory","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"dialogue2","filters":[],"listItems":[],"multiselect":false,"name":"dialogue2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_bm_giveWorm","path":"objects/obj_bm_giveWorm/obj_bm_giveWorm.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_bm_giveWorm","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"repeatDialogue","filters":[],"listItems":[],"multiselect":false,"name":"repeatDialogue","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_bm_repeat","path":"objects/obj_bm_repeat/obj_bm_repeat.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_bm_repeat","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

@@ -22,6 +22,7 @@
     {"name":"fnt_reg","order":1,"path":"fonts/fnt_reg/fnt_reg.yy",},
     {"name":"obj_bgSound","order":29,"path":"objects/obj_bgSound/obj_bgSound.yy",},
     {"name":"obj_bm_giveWorm","order":4,"path":"objects/obj_bm_giveWorm/obj_bm_giveWorm.yy",},
+    {"name":"obj_bm_repeat","order":7,"path":"objects/obj_bm_repeat/obj_bm_repeat.yy",},
     {"name":"obj_box","order":9,"path":"objects/obj_box/obj_box.yy",},
     {"name":"obj_button_start","order":3,"path":"objects/obj_button_start/obj_button_start.yy",},
     {"name":"obj_button","order":2,"path":"objects/obj_button/obj_button.yy",},

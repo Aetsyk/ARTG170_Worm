@@ -42,6 +42,7 @@
     {"id":{"name":"obj_bgSound","path":"objects/obj_bgSound/obj_bgSound.yy",},},
     {"id":{"name":"obj_bm_firstInteraction","path":"objects/obj_bm_firstInteraction/obj_bm_firstInteraction.yy",},},
     {"id":{"name":"obj_bm_giveWorm","path":"objects/obj_bm_giveWorm/obj_bm_giveWorm.yy",},},
+    {"id":{"name":"obj_bm_repeat","path":"objects/obj_bm_repeat/obj_bm_repeat.yy",},},
     {"id":{"name":"obj_box","path":"objects/obj_box/obj_box.yy",},},
     {"id":{"name":"obj_button_start","path":"objects/obj_button_start/obj_button_start.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
