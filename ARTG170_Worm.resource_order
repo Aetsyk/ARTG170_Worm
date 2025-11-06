@@ -70,6 +70,9 @@
     {"name":"Wall1","order":21,"path":"sprites/Wall1/Wall1.yy",},
     {"name":"Wall2","order":22,"path":"sprites/Wall2/Wall2.yy",},
     {"name":"Wall3","order":23,"path":"sprites/Wall3/Wall3.yy",},
+    {"name":"Wall3Exit","order":26,"path":"sprites/Wall3Exit/Wall3Exit.yy",},
+    {"name":"Wall4","order":24,"path":"sprites/Wall4/Wall4.yy",},
+    {"name":"Wallbutton","order":25,"path":"sprites/Wallbutton/Wallbutton.yy",},
     {"name":"werm","order":19,"path":"sprites/werm/werm.yy",},
   ],
 }
