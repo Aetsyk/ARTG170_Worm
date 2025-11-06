@@ -88,6 +88,7 @@
     {"id":{"name":"sfx_positive","path":"sounds/sfx_positive/sfx_positive.yy",},},
     {"id":{"name":"img_wall1","path":"sprites/img_wall1/img_wall1.yy",},},
     {"id":{"name":"img_wall2","path":"sprites/img_wall2/img_wall2.yy",},},
+    {"id":{"name":"img_wall3_final","path":"sprites/img_wall3_final/img_wall3_final.yy",},},
     {"id":{"name":"img_wall3","path":"sprites/img_wall3/img_wall3.yy",},},
     {"id":{"name":"img_wall4","path":"sprites/img_wall4/img_wall4.yy",},},
     {"id":{"name":"spr_arrow_left","path":"sprites/spr_arrow_left/spr_arrow_left.yy",},},

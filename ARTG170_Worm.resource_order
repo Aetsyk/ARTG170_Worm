@@ -64,6 +64,7 @@
     {"name":"sfx_positive","order":1,"path":"sounds/sfx_positive/sfx_positive.yy",},
     {"name":"img_wall1","order":11,"path":"sprites/img_wall1/img_wall1.yy",},
     {"name":"img_wall2","order":12,"path":"sprites/img_wall2/img_wall2.yy",},
+    {"name":"img_wall3_final","order":24,"path":"sprites/img_wall3_final/img_wall3_final.yy",},
     {"name":"img_wall3","order":13,"path":"sprites/img_wall3/img_wall3.yy",},
     {"name":"img_wall4","order":14,"path":"sprites/img_wall4/img_wall4.yy",},
     {"name":"spr_arrow_left","order":18,"path":"sprites/spr_arrow_left/spr_arrow_left.yy",},
