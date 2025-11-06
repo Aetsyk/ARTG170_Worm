@@ -67,6 +67,7 @@
     {"name":"img_wall3_final","order":24,"path":"sprites/img_wall3_final/img_wall3_final.yy",},
     {"name":"img_wall3","order":13,"path":"sprites/img_wall3/img_wall3.yy",},
     {"name":"img_wall4","order":14,"path":"sprites/img_wall4/img_wall4.yy",},
+    {"name":"shapesheet1","order":25,"path":"sprites/shapesheet1/shapesheet1.yy",},
     {"name":"spr_arrow_left","order":18,"path":"sprites/spr_arrow_left/spr_arrow_left.yy",},
     {"name":"spr_arrow_right","order":17,"path":"sprites/spr_arrow_right/spr_arrow_right.yy",},
     {"name":"spr_black","order":21,"path":"sprites/spr_black/spr_black.yy",},
