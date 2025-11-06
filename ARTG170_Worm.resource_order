@@ -67,6 +67,9 @@
     {"name":"spr_green","order":9,"path":"sprites/spr_green/spr_green.yy",},
     {"name":"spr_textbox","order":2,"path":"sprites/spr_textbox/spr_textbox.yy",},
     {"name":"spr_tiny_werm","order":20,"path":"sprites/spr_tiny_werm/spr_tiny_werm.yy",},
+    {"name":"Wall1","order":21,"path":"sprites/Wall1/Wall1.yy",},
+    {"name":"Wall2","order":22,"path":"sprites/Wall2/Wall2.yy",},
+    {"name":"Wall3","order":23,"path":"sprites/Wall3/Wall3.yy",},
     {"name":"werm","order":19,"path":"sprites/werm/werm.yy",},
   ],
 }
