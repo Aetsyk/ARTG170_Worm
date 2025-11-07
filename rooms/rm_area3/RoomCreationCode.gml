@@ -11,8 +11,9 @@ if (!global.sawCutscene) {
 	instance_create_layer(0, 0, "GUI", obj_fadeIn);
 }
 
-if (instance_exists(obj_solvedPuzzle) && global.solvedPuzzle) {
+if (instance_exists(obj_solvedPuzzle) && global.solvedPuzzle && !global.seenCompletion) {
     obj_solvedPuzzle.startDialogue = true;
+	global.seenCompletion = true;
 }
 
 var layer_id = layer_get_id("Assets_OpenDoor");

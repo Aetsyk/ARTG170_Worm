@@ -1,10 +1,12 @@
 function scr_inventory() constructor {
 	_itemList = [];
 	
-	add = function(_itemName, _itemObject) {
+	add = function(_itemName, _itemObject, _isNote = false, _noteDialogue = noone) {
 		array_push(_itemList, {
 			itemName: _itemName,
 			itemObject: _itemObject,
+			isNote: _isNote,
+			noteDialogue: _noteDialogue,
 		});
 	}
 	
@@ -40,5 +42,21 @@ function scr_inventory() constructor {
 		}
 		
 		return -1;
+	}
+	
+	isNote = function(_itemName) {
+		for (var i = 0; i < array_length(_itemList); i++) {
+			if (_itemList[i].itemName == _itemName) {
+				return _itemList[i].isNote;
+			}
+		}
+	}
+	
+	getNote = function(_itemName) {
+		for (var i = 0; i < array_length(_itemList); i++) {
+			if (_itemList[i].itemName == _itemName) {
+				return _itemList[i].noteDialogue;
+			}
+		}
 	}
 }

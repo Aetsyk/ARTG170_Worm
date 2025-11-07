@@ -15,3 +15,4 @@ global.gotWorm = false;
 global.solvedPuzzle = false;
 global.openedDoor = false;
 global.seenDialogue4 = false;
+global.seenCompletion = false;

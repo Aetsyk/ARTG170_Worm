@@ -50,6 +50,7 @@
     {"name":"obj_crates","order":10,"path":"objects/obj_crates/obj_crates.yy",},
     {"name":"obj_dialogueParent","order":1,"path":"objects/obj_dialogueParent/obj_dialogueParent.yy",},
     {"name":"obj_door","order":16,"path":"objects/obj_door/obj_door.yy",},
+    {"name":"obj_ending","order":11,"path":"objects/obj_ending/obj_ending.yy",},
     {"name":"obj_entNote1","order":12,"path":"objects/obj_entNote1/obj_entNote1.yy",},
     {"name":"obj_fadeIn","order":11,"path":"objects/obj_fadeIn/obj_fadeIn.yy",},
     {"name":"obj_flavorObj","order":12,"path":"objects/obj_flavorObj/obj_flavorObj.yy",},

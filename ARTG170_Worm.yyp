@@ -72,6 +72,7 @@
     {"id":{"name":"obj_crates","path":"objects/obj_crates/obj_crates.yy",},},
     {"id":{"name":"obj_dialogueParent","path":"objects/obj_dialogueParent/obj_dialogueParent.yy",},},
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
+    {"id":{"name":"obj_ending","path":"objects/obj_ending/obj_ending.yy",},},
     {"id":{"name":"obj_entNote1","path":"objects/obj_entNote1/obj_entNote1.yy",},},
     {"id":{"name":"obj_fadeIn","path":"objects/obj_fadeIn/obj_fadeIn.yy",},},
     {"id":{"name":"obj_flavorObj","path":"objects/obj_flavorObj/obj_flavorObj.yy",},},
