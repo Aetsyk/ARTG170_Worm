@@ -2,7 +2,7 @@
 event_inherited();
 dialogue.add("YOU","There\'s a note here.");
 dialogue.add("ROMANTIC","Greetings from another bunker!");
-dialogue.add("ROMANTIC","If you\'re reading this, be relieved in knowing that we’re not completely alone down here.");
+dialogue.add("ROMANTIC","If you\'re reading this, be relieved in knowing that we\'re not completely alone down here.");
 dialogue.add("ROMANTIC","The system they\'ve established here seems quite backwards, keeping us all siloed away from each other.");
 dialogue.add("ROMANTIC","Yet, it\'s also quite romantic, isn\'t it?");
 dialogue.add("ROMANTIC","Alone, waiting out the end of the world, with other lonely hearts just a wall or two away...");
