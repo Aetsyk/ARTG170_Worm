@@ -7,11 +7,15 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_358371F7","path":"rooms/rm_area3_doorPuzzle/rm_area3_doorPuzzle.yy",},
+    {"name":"inst_6A9ECB47","path":"rooms/rm_area3_doorPuzzle/rm_area3_doorPuzzle.yy",},
+    {"name":"inst_4E017F3E","path":"rooms/rm_area3_doorPuzzle/rm_area3_doorPuzzle.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_358371F7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_358371F7","objectId":{"name":"obj_clickzone_warpD","path":"objects/obj_clickzone_warpD/obj_clickzone_warpD.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.390625,"scaleY":1.67187,"x":960.0,"y":997.0,},
+        {"$GMRInstance":"v4","%Name":"inst_6A9ECB47","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6A9ECB47","objectId":{"name":"obj_codeManager","path":"objects/obj_codeManager/obj_codeManager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":654.0,"y":339.0,},
+        {"$GMRInstance":"v4","%Name":"inst_4E017F3E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4E017F3E","objectId":{"name":"obj_triangleInput","path":"objects/obj_triangleInput/obj_triangleInput.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":654.0,"y":484.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_1B667AEE","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_1B667AEE","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.222222,"scaleY":1.222222,"spriteId":{"name":"DoorCode","path":"sprites/DoorCode/DoorCode.yy",},"x":416.0,"y":192.0,},

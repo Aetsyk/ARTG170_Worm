@@ -1,0 +1,2 @@
+currentShape = "";
+position = 0;
