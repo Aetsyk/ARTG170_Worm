@@ -11,7 +11,7 @@ if (!global.dialoguePlaying) {
 		global.inventory.consume("worm");
 		talkingStance = true;
 		global.seenDialogue2 = true;
-	} else if (global.seenDialogue2) {
+	} else if (global.seenDialogue2 && !global.seenDialogue3) {
 		dialogue3.startDialogue = true;
 		global.seenDialogue3 = true;
 		talkingStance = true;
