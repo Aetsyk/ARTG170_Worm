@@ -15,6 +15,10 @@ if (instance_exists(obj_solvedPuzzle) && global.solvedPuzzle) {
     obj_solvedPuzzle.startDialogue = true;
 }
 
+var layer_id = layer_get_id("Assets_OpenDoor");
+if (!global.openedDoor) {
+	layer_set_visible(layer_id, false);
+}
 
 instance_deactivate_object(obj_char_bm); 
 

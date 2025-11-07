@@ -14,3 +14,5 @@ dialogue.add("YOU", "Our time alone has surely been valuable, but civilization w
 dialogue.add("THEM", "Fine… If this is so important to You, then I'll tell you.");
 dialogue.add("THEM", "The key is within a lockbox. The combination consists of three shapes.");
 dialogue.add("THEM", "The first shape in the sequence has more than three sides. The rest of the code, you'll find around the bunker.");
+dialogue.add("YOU", "This is truly a monumental event! I promise to return with food and society!");
+dialogue.add("THEM", "Yeah, yeah.");
