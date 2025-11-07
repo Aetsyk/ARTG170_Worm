@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_codeDelete",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_codeDelete",
   "overriddenProperties":[],
@@ -23,11 +25,16 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v2","%Name":"codeManager","filters":[],"listItems":[],"multiselect":false,"name":"codeManager","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_codeManager","path":"objects/obj_codeManager/obj_codeManager.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_codeManager","varType":5,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_textbox",
+    "path":"sprites/spr_textbox/spr_textbox.yy",
+  },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

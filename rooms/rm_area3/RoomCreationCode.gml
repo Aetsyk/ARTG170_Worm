@@ -11,6 +11,11 @@ if (!global.sawCutscene) {
 	instance_create_layer(0, 0, "GUI", obj_fadeIn);
 }
 
+if (instance_exists(obj_solvedPuzzle) && global.solvedPuzzle) {
+    obj_solvedPuzzle.startDialogue = true;
+}
+
+
 instance_deactivate_object(obj_char_bm); 
 
 audio_sound_gain(sfx_clock, 0.25, 0);

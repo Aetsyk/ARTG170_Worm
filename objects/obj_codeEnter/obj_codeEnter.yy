@@ -27,11 +27,15 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v2","%Name":"codeManager","filters":[],"listItems":[],"multiselect":false,"name":"codeManager","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_codeManager","path":"objects/obj_codeManager/obj_codeManager.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_codeManager","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"wrongDialogue","filters":[],"listItems":[],"multiselect":false,"name":"wrongDialogue","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_incorrectCode","path":"objects/obj_incorrectCode/obj_incorrectCode.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_incorrectCode","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_textbox",
+    "path":"sprites/spr_textbox/spr_textbox.yy",
+  },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

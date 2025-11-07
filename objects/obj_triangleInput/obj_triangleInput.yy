@@ -5,7 +5,7 @@
   "managed":true,
   "name":"obj_triangleInput",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_codeInputButton","path":"objects/obj_codeInputButton/obj_codeInputButton.yy",},"propertyId":{"name":"inputValue","path":"objects/obj_codeInputButton/obj_codeInputButton.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_codeInputButton","path":"objects/obj_codeInputButton/obj_codeInputButton.yy",},"propertyId":{"name":"inputValue","path":"objects/obj_codeInputButton/obj_codeInputButton.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"3",},
   ],
   "parent":{
     "name":"Puzzle",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_circle",
-    "path":"sprites/spr_circle/spr_circle.yy",
+    "name":"spr_triangle",
+    "path":"sprites/spr_triangle/spr_triangle.yy",
   },
   "spriteMaskId":null,
   "visible":false,
