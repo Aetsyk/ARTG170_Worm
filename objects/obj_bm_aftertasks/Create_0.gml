@@ -12,7 +12,7 @@ dialogue.add("YOU", "The radio men have been silent for 3 years, 4 months, and 2
 dialogue.add("YOU", "They could all be up in the sunshine land by now. We could be alone!");
 dialogue.add("THEM", "We are alone. We have to be alone. Separation is by design.");
 dialogue.add("YOU", "Our time alone has surely been valuable, but civilization will only rot further if it remains in the depths. Time is our greatest resource, and we\'re running out.");
-dialogue.add("THEM", "Fine… If this is so important to You, then I'll tell you.");
+dialogue.add("THEM", "Fine...If this is so important to You, then I'll tell you.");
 dialogue.add("THEM", "The key is within a lockbox. The combination consists of three shapes.");
 dialogue.add("THEM", "The first shape in the sequence has more than three sides. That\'s all I can tell you. The rest of the code, I wrote down and scattered around the bunker. Good luck.");
 dialogue.add("YOU", "That\'s it?? Surely you're holding out on me.");
