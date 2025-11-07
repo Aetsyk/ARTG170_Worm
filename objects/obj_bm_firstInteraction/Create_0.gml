@@ -9,7 +9,7 @@ dialogue.add("THEM", "Psh. You know there's nothing up there to think about.");
 dialogue.add("YOU", "The day will come when humanity retakes its seat in the sunshine land. You told me yourself.");
 dialogue.add("THEM", "That\'s just a fairy tale. The surface is dead. These bunkers are all we have left.");
 dialogue.add("YOU", "That\'s not what the radio men said. When humanity defeats its ultimate enemy, the gates to the sky will welcome us. There\'s no reason to persist in the bunkers if we aren\'t meant to return!");
-dialogue.add("THEM", "Sorry, but I just don\'t believe in that crap anymore. You can keep believing if it gives you hope, I’d rather spend my days in peace.");
+dialogue.add("THEM", "Sorry, but I just don\'t believe in that crap anymore. You can keep believing if it gives you hope, I\'d rather spend my days in peace.");
 dialogue.add("YOU", "Then surely I could borrow the key to the main entrance?");
 dialogue.add("THEM", "No.");
 dialogue.add("YOU", "And why might that be?");
