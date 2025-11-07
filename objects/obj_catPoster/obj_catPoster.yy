@@ -8,8 +8,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_flavorObj","path":"objects/obj_flavorObj/obj_flavorObj.yy",},"propertyId":{"name":"dialogue","path":"objects/obj_flavorObj/obj_flavorObj.yy",},"resource":{"name":"obj_ft_catPoster","path":"objects/obj_ft_catPoster/obj_ft_catPoster.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_ft_catPoster",},
   ],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Items",
+    "path":"folders/Objects/Items.yy",
   },
   "parentObjectId":{
     "name":"obj_flavorObj",

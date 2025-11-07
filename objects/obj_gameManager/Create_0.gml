@@ -9,4 +9,6 @@ global.inventory = new scr_inventory();
 // dialogue variables
 global.dialoguePlaying = false;
 global.seenDialogue1 = false;
+global.seenDialogue2 = false;
+global.seenDialogue3 = false;
 global.gotWorm = false;

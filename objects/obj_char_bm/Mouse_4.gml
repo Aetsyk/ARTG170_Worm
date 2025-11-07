@@ -10,12 +10,24 @@ if (!global.dialoguePlaying) {
 		inventoryManager.items[global.inventory.getItemIndex("worm")].sprite_index = spr_textbox;
 		global.inventory.consume("worm");
 		talkingStance = true;
-	} else {
-		if (!instance_exists(repeatDialogue)) {
-		instance_create_layer(x, y, "Instances", repeatDialogue);
+		global.seenDialogue2 = true;
+	} else if (global.seenDialogue2) {
+		dialogue3.startDialogue = true;
+		global.seenDialogue3 = true;
+		talkingStance = true;
+	} else if (global.seenDialogue3) {
+		if (!instance_exists(repeatDialogue2)) {
+			instance_create_layer(x, y, "Instances", repeatDialogue2);
 		}
 		
-		repeatDialogue.startDialogue = true;
+		repeatDialogue2.startDialogue = true;
+		talkingStance = true;
+	} else {
+		if (!instance_exists(repeatDialogue1)) {
+			instance_create_layer(x, y, "Instances", repeatDialogue1);
+		}
+		
+		repeatDialogue1.startDialogue = true;
 		talkingStance = true;
 	}
 }

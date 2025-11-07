@@ -8,6 +8,9 @@
   "instanceCreationOrder":[
     {"name":"inst_75E40BF7_1_1","path":"rooms/rm_area3/rm_area3.yy",},
     {"name":"inst_38E7E30D1_1","path":"rooms/rm_area3/rm_area3.yy",},
+    {"name":"inst_5FF38B22","path":"rooms/rm_area3/rm_area3.yy",},
+    {"name":"inst_17C1C82E","path":"rooms/rm_area3/rm_area3.yy",},
+    {"name":"inst_15AC149D","path":"rooms/rm_area3/rm_area3.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -18,6 +21,9 @@
         {"$GMRInstance":"v4","%Name":"inst_38E7E30D1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_38E7E30D1_1","objectId":{"name":"obj_clickzone_warpR","path":"objects/obj_clickzone_warpR/obj_clickzone_warpR.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_clickzone_warpR","path":"objects/obj_clickzone_warpR/obj_clickzone_warpR.yy",},"propertyId":{"name":"destination","path":"objects/obj_clickzone_warpR/obj_clickzone_warpR.yy",},"resource":{"name":"rm_area4","path":"rooms/rm_area4/rm_area4.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_area4",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.671875,"scaleY":3.390625,"x":1763.5,"y":514.0,},
+        {"$GMRInstance":"v4","%Name":"inst_5FF38B22","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5FF38B22","objectId":{"name":"obj_crates","path":"objects/obj_crates/obj_crates.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.875,"scaleY":7.3125,"x":677.0,"y":657.0,},
+        {"$GMRInstance":"v4","%Name":"inst_17C1C82E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_17C1C82E","objectId":{"name":"obj_crates","path":"objects/obj_crates/obj_crates.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":2.375,"x":1066.0,"y":736.0,},
+        {"$GMRInstance":"v4","%Name":"inst_15AC149D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_15AC149D","objectId":{"name":"obj_clickzone_puzzle","path":"objects/obj_clickzone_puzzle/obj_clickzone_puzzle.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.59375,"x":1050.0,"y":544.5,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_78EED1F","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_78EED1F","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2222222,"scaleY":1.2222222,"spriteId":{"name":"Wall3","path":"sprites/Wall3/Wall3.yy",},"x":416.0,"y":192.0,},
