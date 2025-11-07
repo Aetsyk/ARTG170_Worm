@@ -10,10 +10,12 @@ if (!instance_exists(obj_collectible_worm) && !global.gotWorm) {
     instance_create_layer(556, 721, "Instances", obj_collectible_worm);
 }
 
+/*
 if (!global.sawCutscene) {
 	global.sawCutscene = true;
 	instance_create_layer(0, 0, "GUI", obj_fadeIn);
 }
+*/
 
 instance_deactivate_object(obj_char_bm); 
 
