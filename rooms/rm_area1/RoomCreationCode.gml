@@ -6,7 +6,7 @@ if (!instance_exists(obj_bgSound)) {
     instance_create_layer(0, 0, "Assets", obj_bgSound);
 }
 
-if (instance_exists(obj_char_bm) && !global.openedDoor) {
+if (instance_exists(obj_char_bm) && !global.solvedPuzzle) {
 	instance_activate_object(obj_char_bm); 
 } else if (global.solvedPuzzle) {
 	instance_deactivate_object(obj_char_bm); 
