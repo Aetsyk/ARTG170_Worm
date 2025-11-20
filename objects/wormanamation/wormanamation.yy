@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"optionsbuttons",
+  "%Name":"wormanamation",
   "eventList":[],
   "managed":true,
-  "name":"optionsbuttons",
+  "name":"wormanamation",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -23,16 +23,11 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v2","%Name":"sprite_index","filters":[],"listItems":[],"multiselect":false,"name":"sprite_index","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sprite_index","varType":4,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"optionsbuttonsprite1",
-    "path":"sprites/optionsbuttonsprite1/optionsbuttonsprite1.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

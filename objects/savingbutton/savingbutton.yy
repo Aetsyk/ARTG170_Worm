@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"optionsbuttons",
+  "%Name":"savingbutton",
   "eventList":[],
   "managed":true,
-  "name":"optionsbuttons",
+  "name":"savingbutton",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"optionsbuttonsprite1",
-    "path":"sprites/optionsbuttonsprite1/optionsbuttonsprite1.yy",
+    "name":"savebutton",
+    "path":"sprites/savebutton/savebutton.yy",
   },
   "spriteMaskId":null,
   "visible":true,

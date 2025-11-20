@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"optionsbuttons",
+  "%Name":"leftbutton1",
   "eventList":[],
   "managed":true,
-  "name":"optionsbuttons",
+  "name":"leftbutton1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -23,15 +23,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v2","%Name":"sprite_index","filters":[],"listItems":[],"multiselect":false,"name":"sprite_index","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sprite_index","varType":4,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"optionsbuttonsprite1",
-    "path":"sprites/optionsbuttonsprite1/optionsbuttonsprite1.yy",
+    "name":"leftbutton",
+    "path":"sprites/leftbutton/leftbutton.yy",
   },
   "spriteMaskId":null,
   "visible":true,

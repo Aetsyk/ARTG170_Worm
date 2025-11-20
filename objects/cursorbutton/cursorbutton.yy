@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"optionsbuttons",
+  "%Name":"cursorbutton",
   "eventList":[],
   "managed":true,
-  "name":"optionsbuttons",
+  "name":"cursorbutton",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"optionsbuttonsprite1",
-    "path":"sprites/optionsbuttonsprite1/optionsbuttonsprite1.yy",
+    "name":"arrowpointer",
+    "path":"sprites/arrowpointer/arrowpointer.yy",
   },
   "spriteMaskId":null,
   "visible":true,
