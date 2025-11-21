@@ -7,10 +7,6 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_47B9FD0B","path":"rooms/rm_options/rm_options.yy",},
-    {"name":"inst_3EAA5D17","path":"rooms/rm_options/rm_options.yy",},
-    {"name":"inst_6DD1BAAC","path":"rooms/rm_options/rm_options.yy",},
-    {"name":"inst_94D475E","path":"rooms/rm_options/rm_options.yy",},
-    {"name":"inst_67152182","path":"rooms/rm_options/rm_options.yy",},
     {"name":"inst_8199C64","path":"rooms/rm_options/rm_options.yy",},
     {"name":"inst_6D79067D","path":"rooms/rm_options/rm_options.yy",},
   ],
@@ -27,6 +23,11 @@
         {"$GMRInstance":"v4","%Name":"inst_47B9FD0B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_47B9FD0B","objectId":{"name":"optionsbutton","path":"objects/optionsbutton/optionsbutton.yy",},"previewSprite":{"name":"optionsbuttonbar","path":"sprites/optionsbuttonbar/optionsbuttonbar.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_start","path":"objects/obj_button_start/obj_button_start.yy",},"propertyId":{"name":"sprite_index","path":"objects/obj_button_start/obj_button_start.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"optionsbuttonbar",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.5,"scaleY":2.0,"x":896.0,"y":0.0,},
+<<<<<<< HEAD
+        {"$GMRInstance":"v4","%Name":"inst_8199C64","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_8199C64","objectId":{"name":"savingbutton","path":"objects/savingbutton/savingbutton.yy",},"previewSprite":{"name":"savebutton","path":"sprites/savebutton/savebutton.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_start","path":"objects/obj_button_start/obj_button_start.yy",},"propertyId":{"name":"sprite_index","path":"objects/obj_button_start/obj_button_start.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"savebutton",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.0,"scaleY":1.5,"x":480.0,"y":480.0,},
+=======
         {"$GMRInstance":"v4","%Name":"inst_3EAA5D17","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3EAA5D17","objectId":{"name":"leftbutton1","path":"objects/leftbutton1/leftbutton1.yy",},"previewSprite":{"name":"leftbutton","path":"sprites/leftbutton/leftbutton.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_start","path":"objects/obj_button_start/obj_button_start.yy",},"propertyId":{"name":"sprite_index","path":"objects/obj_button_start/obj_button_start.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"leftbutton",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.5,"scaleY":2.0,"x":384.0,"y":224.0,},
@@ -42,6 +43,7 @@
         {"$GMRInstance":"v4","%Name":"inst_8199C64","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_8199C64","objectId":{"name":"savingbutton","path":"objects/savingbutton/savingbutton.yy",},"previewSprite":{"name":"savebutton","path":"sprites/savebutton/savebutton.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_start","path":"objects/obj_button_start/obj_button_start.yy",},"propertyId":{"name":"sprite_index","path":"objects/obj_button_start/obj_button_start.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"savebutton",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.5,"scaleY":2.5,"x":416.0,"y":384.0,},
+>>>>>>> 93aad8e7e36e412c46f9b2a58c6ed3a3d29735e3
         {"$GMRInstance":"v4","%Name":"inst_6D79067D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6D79067D","objectId":{"name":"wormanamation","path":"objects/wormanamation/wormanamation.yy",},"previewSprite":{"name":"wormanimation","path":"sprites/wormanimation/wormanimation.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_start","path":"objects/obj_button_start/obj_button_start.yy",},"propertyId":{"name":"sprite_index","path":"objects/obj_button_start/obj_button_start.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"wormanimation",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.5,"scaleY":2.5,"x":736.0,"y":416.0,},
