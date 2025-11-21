@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_paperTest1",
+  "%Name":"obj_paperTest3",
   "eventList":[],
   "managed":true,
-  "name":"obj_paperTest1",
+  "name":"obj_paperTest3",
   "overriddenProperties":[],
   "parent":{
     "name":"Puzzle TEST",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_paper_1",
-    "path":"sprites/spr_paper_1/spr_paper_1.yy",
+    "name":"spr_paper_3",
+    "path":"sprites/spr_paper_3/spr_paper_3.yy",
   },
   "spriteMaskId":null,
   "visible":true,
