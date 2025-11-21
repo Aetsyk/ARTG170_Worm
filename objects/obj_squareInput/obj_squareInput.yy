@@ -8,8 +8,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_codeInputButton","path":"objects/obj_codeInputButton/obj_codeInputButton.yy",},"propertyId":{"name":"inputValue","path":"objects/obj_codeInputButton/obj_codeInputButton.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"4",},
   ],
   "parent":{
-    "name":"Puzzle",
-    "path":"folders/Objects/Puzzle.yy",
+    "name":"Door Puzzle",
+    "path":"folders/Objects/Jam 1/Door Puzzle.yy",
   },
   "parentObjectId":{
     "name":"obj_codeInputButton",

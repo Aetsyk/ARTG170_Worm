@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Added Dialogue - Alex",
-    "path":"folders/Objects/Dialogue/Added Dialogue - Alex.yy",
+    "path":"folders/Objects/Jam 1/Dialogue/Added Dialogue - Alex.yy",
   },
   "parentObjectId":{
     "name":"obj_dialogueParent",

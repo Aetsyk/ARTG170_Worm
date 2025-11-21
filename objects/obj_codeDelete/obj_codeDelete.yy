@@ -8,8 +8,8 @@
   "name":"obj_codeDelete",
   "overriddenProperties":[],
   "parent":{
-    "name":"Puzzle",
-    "path":"folders/Objects/Puzzle.yy",
+    "name":"Door Puzzle",
+    "path":"folders/Objects/Jam 1/Door Puzzle.yy",
   },
   "parentObjectId":null,
   "persistent":false,
