@@ -130,7 +130,7 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"Alexander Adams \r\nConcept Art, Character Art \r\n",
+  "sampleText":"Alexander Adams \r\nConcept Art,\r\nCharacter Art \r\n",
   "sdfSpread":8,
   "size":12.0,
   "styleName":"Roman",
