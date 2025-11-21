@@ -130,7 +130,7 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"Akira Shemansky \r\nNarrative(character dialogue, flavor text), Sound Design \r\n",
+  "sampleText":"Akira Shemansky \r\nNarrative\r\n(character dialogue,flavor text),\r\nSound Design \r\n",
   "sdfSpread":8,
   "size":12.0,
   "styleName":"Roman",

@@ -130,7 +130,7 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"Blythe Chen \r\nProgramming, Narrative\r\n(worldbuilding, dialogue editing) ",
+  "sampleText":"Blythe Chen \r\nProgramming,Narrative\r\n(Worldbuilding,Dialogue Editing) ",
   "sdfSpread":8,
   "size":12.0,
   "styleName":"Roman",
