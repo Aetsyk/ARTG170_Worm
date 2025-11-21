@@ -11,7 +11,7 @@
   ],
   "parent":{
     "name":"Items",
-    "path":"folders/Objects/Jam 1/Items.yy",
+    "path":"folders/Objects/Chapter 1/Items.yy",
   },
   "parentObjectId":{
     "name":"obj_flavorObj",

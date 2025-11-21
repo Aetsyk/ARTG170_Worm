@@ -9,7 +9,7 @@
   ],
   "parent":{
     "name":"Door Puzzle",
-    "path":"folders/Objects/Jam 1/Door Puzzle.yy",
+    "path":"folders/Objects/Chapter 1/Door Puzzle.yy",
   },
   "parentObjectId":{
     "name":"obj_codeInputButton",

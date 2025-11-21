@@ -10,8 +10,8 @@
   "name":"obj_char_bm",
   "overriddenProperties":[],
   "parent":{
-    "name":"Dialogue",
-    "path":"folders/Objects/Jam 1/Dialogue.yy",
+    "name":"Chapter 1",
+    "path":"folders/Objects/Chapter 1.yy",
   },
   "parentObjectId":null,
   "persistent":true,

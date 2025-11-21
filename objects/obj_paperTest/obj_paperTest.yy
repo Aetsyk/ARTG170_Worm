@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Puzzle TEST",
-    "path":"folders/Objects/Jam 2/Puzzle TEST.yy",
+    "path":"folders/Objects/Chapter 2/Puzzle TEST.yy",
   },
   "parentObjectId":null,
   "persistent":false,

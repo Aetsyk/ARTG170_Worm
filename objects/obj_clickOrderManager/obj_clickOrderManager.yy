@@ -1,20 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_ft_crates",
+  "%Name":"obj_clickOrderManager",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":50,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_ft_crates",
+  "name":"obj_clickOrderManager",
   "overriddenProperties":[],
   "parent":{
-    "name":"Dialogue",
-    "path":"folders/Objects/Chapter 1/Dialogue.yy",
+    "name":"Puzzle TEST",
+    "path":"folders/Objects/Chapter 2/Puzzle TEST.yy",
   },
-  "parentObjectId":{
-    "name":"obj_dialogueParent",
-    "path":"objects/obj_dialogueParent/obj_dialogueParent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

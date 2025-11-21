@@ -31,8 +31,8 @@
   ],
   "name":"rm_mirrorTest",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Chapter 2",
+    "path":"folders/Rooms/Chapter 2.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

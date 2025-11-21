@@ -8,8 +8,8 @@
   "name":"obj_bm_aftertasks_repeat",
   "overriddenProperties":[],
   "parent":{
-    "name":"Added Dialogue - Alex",
-    "path":"folders/Objects/Jam 1/Dialogue/Added Dialogue - Alex.yy",
+    "name":"Dialogue",
+    "path":"folders/Objects/Chapter 1/Dialogue.yy",
   },
   "parentObjectId":{
     "name":"obj_dialogueParent",
