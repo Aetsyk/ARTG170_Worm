@@ -59,6 +59,7 @@
     {"name":"obj_title","order":1,"path":"objects/obj_title/obj_title.yy",},
     {"name":"obj_worldMap","order":17,"path":"objects/obj_worldMap/obj_worldMap.yy",},
     {"name":"olist","order":29,"path":"objects/olist/olist.yy",},
+    {"name":"Omanager","order":30,"path":"objects/Omanager/Omanager.yy",},
     {"name":"optionsbutton","order":22,"path":"objects/optionsbutton/optionsbutton.yy",},
     {"name":"optionsbuttons","order":23,"path":"objects/optionsbuttons/optionsbuttons.yy",},
     {"name":"pointandclick","order":25,"path":"objects/pointandclick/pointandclick.yy",},

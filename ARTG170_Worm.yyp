@@ -80,6 +80,7 @@
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},},
     {"id":{"name":"obj_worldMap","path":"objects/obj_worldMap/obj_worldMap.yy",},},
     {"id":{"name":"olist","path":"objects/olist/olist.yy",},},
+    {"id":{"name":"Omanager","path":"objects/Omanager/Omanager.yy",},},
     {"id":{"name":"optionsbutton","path":"objects/optionsbutton/optionsbutton.yy",},},
     {"id":{"name":"optionsbuttons","path":"objects/optionsbuttons/optionsbuttons.yy",},},
     {"id":{"name":"pointandclick","path":"objects/pointandclick/pointandclick.yy",},},
