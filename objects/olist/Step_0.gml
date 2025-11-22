@@ -39,7 +39,7 @@ for (var i=0; i< _size; i++) {
         
         // change value 
         if (sel > -1) {
-            var _wheel + mouse_wheel_up() - mouse_wheel_down(); 
+            var _wheel = + mouse_wheel_up() - mouse_wheel_down(); 
         
              
             // wheel input 
