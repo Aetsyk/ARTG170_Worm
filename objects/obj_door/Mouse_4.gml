@@ -1,5 +1,8 @@
-if (global.openedDoor) {
+if (global.openedDoor && !global.startedChapter2) {
 	room_goto(rm_ending);
+}
+if (global.startedChapter2) {
+	room_goto(rm2Wall1);
 }
 
 if (global.inventory.getItemIndex("key") > -1 && inventoryManager.currentlyHovered == "key") {

@@ -4,4 +4,4 @@ if (!instance_exists(obj_inventory)) {
 }
 */
 
-instance_deactivate_object(obj_char_bm); 
+instance_deactivate_object(obj_char_coward); 

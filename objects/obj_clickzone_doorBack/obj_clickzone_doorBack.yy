@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_clickzone_warpR",
+  "%Name":"obj_clickzone_doorBack",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_clickzone_warpR",
+  "name":"obj_clickzone_doorBack",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Chapter 2",
+    "path":"folders/Objects/Chapter 2.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,15 +26,15 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"destination","filters":[],"listItems":[],"multiselect":false,"name":"destination","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_area2","path":"rooms/rm_area2/rm_area2.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_area2","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"destination","filters":[],"listItems":[],"multiselect":false,"name":"destination","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"bathroom","path":"rooms/bathroom/bathroom.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"bathroom","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_arrow_right",
-    "path":"sprites/spr_arrow_right/spr_arrow_right.yy",
+    "name":"spr_textbox",
+    "path":"sprites/spr_textbox/spr_textbox.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

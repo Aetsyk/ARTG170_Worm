@@ -8,6 +8,8 @@
   "instanceCreationOrder":[
     {"name":"inst_68AC1CD","path":"rooms/bathroom/bathroom.yy",},
     {"name":"inst_9BFB92D","path":"rooms/bathroom/bathroom.yy",},
+    {"name":"inst_1A846A67","path":"rooms/bathroom/bathroom.yy",},
+    {"name":"inst_545479B5","path":"rooms/bathroom/bathroom.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -16,6 +18,8 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_clickzone_warpD","path":"objects/obj_clickzone_warpD/obj_clickzone_warpD.yy",},"propertyId":{"name":"destination","path":"objects/obj_clickzone_warpD/obj_clickzone_warpD.yy",},"resource":{"name":"rm2Wall3","path":"rooms/rm2Wall3/rm2Wall3.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm2Wall3",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.6875,"scaleY":1.46875,"x":880.0,"y":983.0,},
         {"$GMRInstance":"v4","%Name":"inst_9BFB92D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_9BFB92D","objectId":{"name":"obj_clickzone_mirror","path":"objects/obj_clickzone_mirror/obj_clickzone_mirror.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.84375,"scaleY":8.125,"x":649.5,"y":410.0,},
+        {"$GMRInstance":"v4","%Name":"inst_1A846A67","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1A846A67","objectId":{"name":"obj_char_coward","path":"objects/obj_char_coward/obj_char_coward.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.24163033,"scaleY":0.24163035,"x":697.41187,"y":549.0,},
+        {"$GMRInstance":"v4","%Name":"inst_545479B5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_545479B5","objectId":{"name":"obj_coward_firstInteraction","path":"objects/obj_coward_firstInteraction/obj_coward_firstInteraction.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":442.0,"y":221.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_1F915EFB","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_1F915EFB","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2222222,"scaleY":1.2222222,"spriteId":{"name":"LeBath","path":"sprites/LeBath/LeBath.yy",},"x":416.0,"y":192.0,},

@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_ending",
+  "%Name":"obj_coward_firstInteraction",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_ending",
+  "name":"obj_coward_firstInteraction",
   "overriddenProperties":[],
   "parent":{
     "name":"Dialogue",
-    "path":"folders/Objects/Chapter 1/Dialogue.yy",
+    "path":"folders/Objects/Chapter 2/Dialogue.yy",
   },
   "parentObjectId":{
     "name":"obj_dialogueParent",

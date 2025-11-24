@@ -6,7 +6,7 @@ global.sawCutscene = false;
 
 global.inventory = new scr_inventory();
 
-// dialogue variables
+// dialogue variables for Chapter 1
 global.dialoguePlaying = false;
 global.seenDialogue1 = false;
 global.seenDialogue2 = false;
@@ -16,3 +16,7 @@ global.solvedPuzzle = false;
 global.openedDoor = false;
 global.seenDialogue4 = false;
 global.seenCompletion = false;
+
+// dialogue variables for Chapter 2
+global.seenCowardDialogue1 = false;
+global.startedChapter2 = false;

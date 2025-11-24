@@ -30,7 +30,7 @@ if (showingDialogue) {
 	draw_set_font(fnt_charName);
 	draw_set_halign(fa_left);
 	
-	draw_text_ext(textX, textY + padding, currentDialogueLine.character, 18, display_get_gui_width() - 192);
+	draw_text_ext(textX, textY + padding, currentDialogueLine.character, 18, display_get_gui_width() - 170);
 	
 	// drawing the message text
 	draw_set_font(fnt_reg);
