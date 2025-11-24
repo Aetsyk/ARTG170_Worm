@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_clickzone_puzzle",
+  "%Name":"obj_clickzone_mirror",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_clickzone_puzzle",
+  "name":"obj_clickzone_mirror",
   "overriddenProperties":[],
   "parent":{
-    "name":"Chapter 1",
-    "path":"folders/Objects/Chapter 1.yy",
+    "name":"Chapter 2",
+    "path":"folders/Objects/Chapter 2.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -26,7 +26,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"destination","filters":[],"listItems":[],"multiselect":false,"name":"destination","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_area3_doorPuzzle","path":"rooms/rm_area3_doorPuzzle/rm_area3_doorPuzzle.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_area3_doorPuzzle","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"destination","filters":[],"listItems":[],"multiselect":false,"name":"destination","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_mirrorTest","path":"rooms/rm_mirrorTest/rm_mirrorTest.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_mirrorTest","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
