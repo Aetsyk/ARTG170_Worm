@@ -9,6 +9,7 @@
     {"name":"inst_69168FA","path":"rooms/rm_mirrorTest/rm_mirrorTest.yy",},
     {"name":"inst_53EA3D0F","path":"rooms/rm_mirrorTest/rm_mirrorTest.yy",},
     {"name":"inst_26207DAA","path":"rooms/rm_mirrorTest/rm_mirrorTest.yy",},
+    {"name":"inst_4386174B","path":"rooms/rm_mirrorTest/rm_mirrorTest.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -22,6 +23,7 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_paperTest","path":"objects/obj_paperTest/obj_paperTest.yy",},"propertyId":{"name":"targetX","path":"objects/obj_paperTest/obj_paperTest.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"422",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_paperTest","path":"objects/obj_paperTest/obj_paperTest.yy",},"propertyId":{"name":"targetY","path":"objects/obj_paperTest/obj_paperTest.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"518",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.4444444,"scaleY":1.88,"x":1170.0,"y":677.5,},
+        {"$GMRInstance":"v4","%Name":"inst_4386174B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4386174B","objectId":{"name":"obj_clickOrderManager","path":"objects/obj_clickOrderManager/obj_clickOrderManager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":63.0,"y":42.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_57524952","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_57524952","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":13.749996,"scaleY":10.999998,"spriteId":{"name":"spr_black","path":"sprites/spr_black/spr_black.yy",},"x":416.0,"y":192.0,},
