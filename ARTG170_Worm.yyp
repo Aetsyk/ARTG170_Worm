@@ -120,6 +120,7 @@
     {"id":{"name":"obj_radio","path":"objects/obj_radio/obj_radio.yy",},},
     {"id":{"name":"obj_romanticNote1","path":"objects/obj_romanticNote1/obj_romanticNote1.yy",},},
     {"id":{"name":"obj_romanticNote2","path":"objects/obj_romanticNote2/obj_romanticNote2.yy",},},
+    {"id":{"name":"obj_room2Intro","path":"objects/obj_room2Intro/obj_room2Intro.yy",},},
     {"id":{"name":"obj_solvedPuzzle","path":"objects/obj_solvedPuzzle/obj_solvedPuzzle.yy",},},
     {"id":{"name":"obj_squareInput","path":"objects/obj_squareInput/obj_squareInput.yy",},},
     {"id":{"name":"obj_starInput","path":"objects/obj_starInput/obj_starInput.yy",},},

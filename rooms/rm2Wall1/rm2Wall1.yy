@@ -8,6 +8,7 @@
   "instanceCreationOrder":[
     {"name":"inst_38E7E30D2_1","path":"rooms/rm2Wall1/rm2Wall1.yy",},
     {"name":"inst_39FC9E69","path":"rooms/rm2Wall1/rm2Wall1.yy",},
+    {"name":"inst_DBCC519","path":"rooms/rm2Wall1/rm2Wall1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -18,6 +19,7 @@
         {"$GMRInstance":"v4","%Name":"inst_39FC9E69","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_39FC9E69","objectId":{"name":"obj_clickzone_doorBack","path":"objects/obj_clickzone_doorBack/obj_clickzone_doorBack.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_clickzone_doorBack","path":"objects/obj_clickzone_doorBack/obj_clickzone_doorBack.yy",},"propertyId":{"name":"destination","path":"objects/obj_clickzone_doorBack/obj_clickzone_doorBack.yy",},"resource":{"name":"rm_area3","path":"rooms/rm_area3/rm_area3.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_area3",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.28125,"scaleY":12.6875,"x":868.5,"y":571.0,},
+        {"$GMRInstance":"v4","%Name":"inst_DBCC519","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_DBCC519","objectId":{"name":"obj_room2Intro","path":"objects/obj_room2Intro/obj_room2Intro.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":449.0,"y":360.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_C6B8E41","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_C6B8E41","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2222222,"scaleY":1.2222222,"spriteId":{"name":"Rm2Wall1","path":"sprites/Rm2Wall1/Rm2Wall1.yy",},"x":416.0,"y":192.0,},

@@ -12,4 +12,9 @@ if (!global.sawCutscene) {
 }
 
 instance_deactivate_object(obj_char_coward);
-global.startedChapter2 = true;
+
+if (!global.startedChapter2) {
+	// eventually add a time delay between rooms
+	obj_room2Intro.startDialogue = true;
+	global.startedChapter2 = true;
+}
