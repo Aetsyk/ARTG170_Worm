@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"soundtest",
+    "path":"sprites/soundtest/soundtest.yy",
+  },
   "spriteMaskId":null,
   "visible":false,
 }

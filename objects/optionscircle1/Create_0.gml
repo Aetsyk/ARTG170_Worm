@@ -15,7 +15,8 @@ switch(setting) {
     case "sound": 
         amount_current = global.sound_volume; 
         break; 
-    
+    case "cursor":
+        amount_current = global.cursor_sentivity; 
 }
 
 audio_group_load(audiogroup_sfx); 
