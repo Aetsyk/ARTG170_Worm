@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_title",
+  "%Name":"obj_chapter1Screen",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_title",
+  "name":"obj_chapter1Screen",
   "overriddenProperties":[],
   "parent":{
-    "name":"Title",
-    "path":"folders/Objects/Title.yy",
+    "name":"Chapter 1",
+    "path":"folders/Objects/Chapter 1.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_black",
-    "path":"sprites/spr_black/spr_black.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

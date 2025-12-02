@@ -1,3 +1,7 @@
+// setup
+window_set_cursor(cr_none);
+cursor_sprite = spr_cursor;
+
 // keeps global vars
 
 global.playerfacing = "north";

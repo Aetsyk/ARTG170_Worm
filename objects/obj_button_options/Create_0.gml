@@ -5,7 +5,5 @@ event_inherited();
 //y = window_get_height() / 2 + 300;
 
 activate_button = function() {
-	var layer_id = layer_get_id("Assets_OpenDoor");
-	layer_set_visible(layer_id, true);
-	timer.timerOn = true;
+
 }

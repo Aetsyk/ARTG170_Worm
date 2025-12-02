@@ -1,18 +1,23 @@
 {
   "$GMObject":"",
-  "%Name":"obj_title",
+  "%Name":"obj_button_end",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_title",
-  "overriddenProperties":[],
+  "name":"obj_button_end",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"propertyId":{"name":"bttn_txt","path":"objects/obj_button/obj_button.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"END\"",},
+  ],
   "parent":{
     "name":"Title",
     "path":"folders/Objects/Title.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_button",
+    "path":"objects/obj_button/obj_button.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_black",
-    "path":"sprites/spr_black/spr_black.yy",
+    "name":"spr_textbox",
+    "path":"sprites/spr_textbox/spr_textbox.yy",
   },
   "spriteMaskId":null,
   "visible":true,
