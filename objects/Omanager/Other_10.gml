@@ -8,7 +8,7 @@ create_button(40, 40 + _height + 40, _width, _height,"Volume", on_click);
 
 create_button(40, 40 + _height + 40,_width, _height,"music",on_click);
 
-create_button(40, 40 + _height + 40,_width, _height,"cursor volume",on_click);
+create_button(40, 40 + _height + 40,_width, _height,"cursor",on_click);
 
 create_button(40, 40 + (_height + 40)*2, _width,_height,"Quit",on_click);
 
