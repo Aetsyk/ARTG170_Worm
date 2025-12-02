@@ -12,5 +12,3 @@ charSpeed = 0.5;
 
 startDialogue = false;
 dialogueEnd = false;
-
-//currentDialogueLine.message = scr_stringWrap(currentDialogueLine.message, textMaxWidth); // adds line breaks (doesn't seem to be working rn)

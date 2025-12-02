@@ -1,6 +1,7 @@
 // setup
 window_set_cursor(cr_none);
 cursor_sprite = spr_cursor;
+display_set_gui_size(window_get_width(), window_get_height());
 
 // keeps global vars
 

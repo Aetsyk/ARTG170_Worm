@@ -1,0 +1,1 @@
+textX = (sprite_width) / 2 + x;

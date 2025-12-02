@@ -14,7 +14,7 @@ x = 1400;
 y = 540;
 
 image_xscale = 4.34375;
-image_yscale = 22.2187;
+image_yscale = 20.2187;
 
 var _height = 0;
 
