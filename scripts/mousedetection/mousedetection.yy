@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"mousedetection",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"mousedetection",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
