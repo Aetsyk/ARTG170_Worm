@@ -6,8 +6,8 @@
   "name":"obj_box",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Items",
+    "path":"folders/Objects/Chapter 1/Items.yy",
   },
   "parentObjectId":null,
   "persistent":false,

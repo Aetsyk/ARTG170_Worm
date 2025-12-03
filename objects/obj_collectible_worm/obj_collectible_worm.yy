@@ -8,8 +8,8 @@
   "name":"obj_collectible_worm",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Items",
+    "path":"folders/Objects/Chapter 1/Items.yy",
   },
   "parentObjectId":{
     "name":"obj_collectibleParent",

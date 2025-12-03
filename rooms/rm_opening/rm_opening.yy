@@ -17,8 +17,8 @@
   ],
   "name":"rm_opening",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Chapter 1",
+    "path":"folders/Rooms/Chapter 1.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
