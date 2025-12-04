@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"Credit1",
+  "%Name":"credit1",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":15,
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":19,
   "maintainGms1Font":false,
-  "name":"Credit1",
+  "name":"credit1",
   "parent":{
     "name":"Fonts",
     "path":"folders/Fonts.yy",
@@ -130,7 +130,7 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"Akira Shemansky \r\nNarrative\r\n(character dialogue,flavor text),\r\nSound Design \r\n",
+  "sampleText":"Worm Credits \r\n",
   "sdfSpread":8,
   "size":12.0,
   "styleName":"Roman",

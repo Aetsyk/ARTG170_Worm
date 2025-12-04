@@ -47,6 +47,7 @@
   },
   "name":"ARTG170_Worm",
   "resources":[
+    {"id":{"name":"credit1","path":"fonts/credit1/credit1.yy",},},
     {"id":{"name":"fnt_charName","path":"fonts/fnt_charName/fnt_charName.yy",},},
     {"id":{"name":"fnt_reg","path":"fonts/fnt_reg/fnt_reg.yy",},},
     {"id":{"name":"fnt_title","path":"fonts/fnt_title/fnt_title.yy",},},
@@ -155,7 +156,6 @@
     {"id":{"name":"rm2Wall2","path":"rooms/rm2Wall2/rm2Wall2.yy",},},
     {"id":{"name":"rm2Wall3","path":"rooms/rm2Wall3/rm2Wall3.yy",},},
     {"id":{"name":"rm2Wall4","path":"rooms/rm2Wall4/rm2Wall4.yy",},},
-    {"id":{"name":"RoomUI","path":"roomui/RoomUI/RoomUI.yy",},},
     {"id":{"name":"Create_list","path":"scripts/Create_list/Create_list.yy",},},
     {"id":{"name":"mousedetection","path":"scripts/mousedetection/mousedetection.yy",},},
     {"id":{"name":"scr_dialogue","path":"scripts/scr_dialogue/scr_dialogue.yy",},},

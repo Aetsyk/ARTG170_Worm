@@ -3,7 +3,7 @@
   "%Name":"musicnote",
   "bboxMode":0,
   "bbox_bottom":40,
-  "bbox_left":22,
+  "bbox_left":21,
   "bbox_right":45,
   "bbox_top":21,
   "collisionKind":1,
