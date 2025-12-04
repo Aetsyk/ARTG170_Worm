@@ -1,3 +1,4 @@
+function mousedetection(){
 // this script contains functions relating to detecting if the mouse is 
 // within certain regions on the screen or within the room 
 
@@ -58,5 +59,5 @@ function mouseWithinCircle(_c,_r,_gui){
              // otherwise we are not within the circle boundary 
              return false;  
             } 
-    
-}
+  
+} } 
