@@ -101,6 +101,7 @@
     {"name":"settings","order":26,"path":"objects/settings/settings.yy",},
     {"name":"slider","order":31,"path":"objects/slider/slider.yy",},
     {"name":"bathroom","order":1,"path":"rooms/bathroom/bathroom.yy",},
+    {"name":"creditscreen","order":3,"path":"rooms/creditscreen/creditscreen.yy",},
     {"name":"optionscreen","order":2,"path":"rooms/optionscreen/optionscreen.yy",},
     {"name":"rm_area2","order":1,"path":"rooms/rm_area2/rm_area2.yy",},
     {"name":"rm_area3_doorPuzzle","order":4,"path":"rooms/rm_area3_doorPuzzle/rm_area3_doorPuzzle.yy",},
