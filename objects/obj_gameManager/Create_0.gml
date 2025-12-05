@@ -33,3 +33,4 @@ global.gotMirror2 = false;
 global.gotMirror3 = false;
 global.gotMirror4 = false;
 global.mirrorState = 0;
+global.talkingToCoward = false;

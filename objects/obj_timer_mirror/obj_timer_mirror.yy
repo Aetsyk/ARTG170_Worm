@@ -7,7 +7,7 @@
   "managed":true,
   "name":"obj_timer_mirror",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_timerParent","path":"objects/obj_timerParent/obj_timerParent.yy",},"propertyId":{"name":"targetTime","path":"objects/obj_timerParent/obj_timerParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"20",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_timerParent","path":"objects/obj_timerParent/obj_timerParent.yy",},"propertyId":{"name":"targetTime","path":"objects/obj_timerParent/obj_timerParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"40",},
   ],
   "parent":{
     "name":"Transitions",

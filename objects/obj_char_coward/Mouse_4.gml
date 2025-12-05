@@ -1,6 +1,7 @@
 //audio_play_sound(sfx_interact, 10, false);
 if (!global.dialoguePlaying) {
 	talkingStance = true;
+	audio_stop_sound(sfx_crying);
 	if (!global.seenCowardDialogue1) {
 		currentDialogue = dialogue1;
 		dialogue1.startDialogue = true;

@@ -1,1 +1,3 @@
 // play eating sound effect
+// Sound Effect by <a href="https://pixabay.com/users/shut_up_ghost-32917765/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=135544">Ghostie Graves</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=135544">Pixabay</a>
+audio_play_sound(sfx_eating, 10, false);
