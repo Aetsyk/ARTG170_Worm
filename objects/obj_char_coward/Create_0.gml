@@ -1,1 +1,2 @@
 talkingStance = false;
+currentDialogue = noone;

@@ -4,7 +4,9 @@ dialogue = new scr_dialogue(); // new dialogue object
 
 keyNext = vk_space; // what key to press to advance dialogue
 showingDialogue = false; // whether the dialogue should be showing rn
-currentDialogueLine = dialogue.pop(); // which line
+currentDialogueLine = noone; // which line
+currentDialogueEmotion = "default";
+currentDialogueChar = "";
 
 textMaxWidth = display_get_gui_width() - 40;
 charCurrent = 1;

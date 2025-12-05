@@ -25,3 +25,4 @@ global.seenCompletion = false;
 // dialogue variables for Chapter 2
 global.seenCowardDialogue1 = false;
 global.startedChapter2 = false;
+global.ateShroom = false;
