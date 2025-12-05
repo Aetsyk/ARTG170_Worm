@@ -14,6 +14,7 @@
     {"name":"inst_3C39987D","path":"rooms/bathroom/bathroom.yy",},
     {"name":"inst_11503443","path":"rooms/bathroom/bathroom.yy",},
     {"name":"inst_72A5C04D","path":"rooms/bathroom/bathroom.yy",},
+    {"name":"inst_4D573029","path":"rooms/bathroom/bathroom.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -28,6 +29,7 @@
         {"$GMRInstance":"v4","%Name":"inst_3C39987D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3C39987D","objectId":{"name":"obj_coward_repeat","path":"objects/obj_coward_repeat/obj_coward_repeat.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":465.0,"y":268.0,},
         {"$GMRInstance":"v4","%Name":"inst_11503443","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_11503443","objectId":{"name":"obj_collectible_mirror3","path":"objects/obj_collectible_mirror3/obj_collectible_mirror3.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.9375,"scaleY":8.59375,"x":1074.0,"y":686.5,},
         {"$GMRInstance":"v4","%Name":"inst_72A5C04D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_72A5C04D","objectId":{"name":"obj_ft_mirror3","path":"objects/obj_ft_mirror3/obj_ft_mirror3.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":548.0,"y":236.0,},
+        {"$GMRInstance":"v4","%Name":"inst_4D573029","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4D573029","objectId":{"name":"obj_mirrorCompletion","path":"objects/obj_mirrorCompletion/obj_mirrorCompletion.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":937.0,"y":411.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_Mirror4","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_577D513E","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_577D513E","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2222222,"scaleY":1.2222222,"spriteId":{"name":"mirror4","path":"sprites/mirror4/mirror4.yy",},"x":416.0,"y":192.0,},

@@ -32,3 +32,7 @@ layer_set_visible(layer_get_id("Assets_Mirror2"), false);
 layer_set_visible(layer_get_id("Assets_Mirror3"), false);
 layer_set_visible(layer_get_id("Assets_Mirror4"), false);
 layer_set_visible(visibleLayer, true);
+
+if (global.mirrorState == 4) {
+	obj_mirrorCompletion.startDialogue = true;
+}

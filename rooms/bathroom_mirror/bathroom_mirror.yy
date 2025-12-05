@@ -13,6 +13,8 @@
     {"name":"inst_5F119A9","path":"rooms/bathroom_mirror/bathroom_mirror.yy",},
     {"name":"inst_25E18F24","path":"rooms/bathroom_mirror/bathroom_mirror.yy",},
     {"name":"inst_40705C2","path":"rooms/bathroom_mirror/bathroom_mirror.yy",},
+    {"name":"inst_225B5957","path":"rooms/bathroom_mirror/bathroom_mirror.yy",},
+    {"name":"inst_391154BE","path":"rooms/bathroom_mirror/bathroom_mirror.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -38,6 +40,8 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_paperTest","path":"objects/obj_paperTest/obj_paperTest.yy",},"propertyId":{"name":"targetX","path":"objects/obj_paperTest/obj_paperTest.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"490",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_paperTest","path":"objects/obj_paperTest/obj_paperTest.yy",},"propertyId":{"name":"targetY","path":"objects/obj_paperTest/obj_paperTest.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"464",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.3175926,"scaleY":0.27447915,"x":914.17413,"y":132.31253,},
+        {"$GMRInstance":"v4","%Name":"inst_225B5957","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_225B5957","objectId":{"name":"obj_timer_mirror","path":"objects/obj_timer_mirror/obj_timer_mirror.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":185.0,"y":453.0,},
+        {"$GMRInstance":"v4","%Name":"inst_391154BE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_391154BE","objectId":{"name":"obj_mirrorCompletion","path":"objects/obj_mirrorCompletion/obj_mirrorCompletion.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":136.0,"y":704.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_Portrait","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_536037BB","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_536037BB","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.32106417,"scaleY":0.2746226,"spriteId":{"name":"MirrorPortrait","path":"sprites/MirrorPortrait/MirrorPortrait.yy",},"x":488.0,"y":266.0,},
