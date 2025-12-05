@@ -1,13 +1,26 @@
 //show_debug_message("talking stance: " + string(talkingStance));
 //show_debug_message("dialogue playing: " + string(global.dialoguePlaying));
 
+if (!instance_exists(currentDialogue)) {
+	talkingStance = false;
+}
+
 if (global.isTripping == 1) {
 	sprite_index = spr_cowardCOOKED;
-} else {
-	if (!instance_exists(currentDialogue)) {
-		talkingStance = false;
+	if (talkingStance) {
+		if (global.dialoguePlaying) {
+			var emotion = currentDialogue.currentDialogueEmotion;
+			show_debug_message(emotion);
+			switch (emotion) {
+				case "very scared":
+					sprite_index = spr_cowardCOOKEDSCARED;
+					break;
+			    default:
+			        break;
+			}
+		}
 	}
-
+} else {
 	if (talkingStance) {
 		if (global.dialoguePlaying) {
 			var emotion = currentDialogue.currentDialogueEmotion;

@@ -5,7 +5,7 @@ if (global.paintingState == "wall") {
 } else if (global.paintingState == "fallen") {
 	if (global.inventory.getItemIndex("screwdriver") > -1 && inventoryManager.currentlyHovered == "screwdriver") {
 		audio_play_sound(sfx_positive, 10, false);
-		global.paintingState == "open";
+		global.paintingState = "open";
 		successDialogue.startDialogue = true;
 		global.inventory.consume("screwdriver");
 	

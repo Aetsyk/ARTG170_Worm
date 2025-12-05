@@ -6,8 +6,8 @@
   "name":"obj_paperTest3",
   "overriddenProperties":[],
   "parent":{
-    "name":"Puzzle TEST",
-    "path":"folders/Objects/Chapter 2/Puzzle TEST.yy",
+    "name":"Puzzle",
+    "path":"folders/Objects/Chapter 2/Puzzle.yy",
   },
   "parentObjectId":{
     "name":"obj_paperTest",

@@ -26,7 +26,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"destination","filters":[],"listItems":[],"multiselect":false,"name":"destination","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_mirrorTest","path":"rooms/rm_mirrorTest/rm_mirrorTest.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_mirrorTest","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"destination","filters":[],"listItems":[],"multiselect":false,"name":"destination","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"bathroom_mirror","path":"rooms/bathroom_mirror/bathroom_mirror.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"bathroom_mirror","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

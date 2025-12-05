@@ -9,8 +9,8 @@
   "name":"obj_clickOrderManager",
   "overriddenProperties":[],
   "parent":{
-    "name":"Puzzle TEST",
-    "path":"folders/Objects/Chapter 2/Puzzle TEST.yy",
+    "name":"Puzzle",
+    "path":"folders/Objects/Chapter 2/Puzzle.yy",
   },
   "parentObjectId":null,
   "persistent":false,

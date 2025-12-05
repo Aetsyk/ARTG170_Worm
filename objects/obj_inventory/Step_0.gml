@@ -8,6 +8,11 @@ if (room != rm_title && room != rm_opening && room != rm_ending) // eventually c
 			items[i].sprite_index = global.inventory.getList()[i].itemObject;
 		}
 	} // update inventory
+	
+	for (var i = global.inventory.count(); i < maxInvSpace; i++) {
+		items[i].itemName = "empty";
+		items[i].sprite_index = spr_textbox;
+	}
 } else {
 	visible = false;
 }

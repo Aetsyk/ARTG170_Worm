@@ -1,0 +1,1 @@
+global.inventory.add("screwdriver", spr_tiny_screwdriver);

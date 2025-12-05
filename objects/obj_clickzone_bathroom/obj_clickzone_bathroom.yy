@@ -27,6 +27,7 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v2","%Name":"destination","filters":[],"listItems":[],"multiselect":false,"name":"destination","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"bathroom","path":"rooms/bathroom/bathroom.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"bathroom","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"dialogue","filters":[],"listItems":[],"multiselect":false,"name":"dialogue","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_ft_lockedBathroom","path":"objects/obj_ft_lockedBathroom/obj_ft_lockedBathroom.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_ft_lockedBathroom","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

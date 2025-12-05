@@ -7,7 +7,7 @@ if (!global.dialoguePlaying) {
 	} else if (global.seenDialogue1 && global.inventory.getItemIndex("worm") > -1 && inventoryManager.currentlyHovered == "worm") {
 		audio_play_sound(sfx_positive, 10, false);
 		dialogue2.startDialogue = true;
-		inventoryManager.items[global.inventory.getItemIndex("worm")].sprite_index = spr_textbox;
+		//inventoryManager.items[global.inventory.getItemIndex("worm")].sprite_index = spr_textbox;
 		global.inventory.consume("worm");
 		talkingStance = true;
 		global.seenDialogue2 = true;
