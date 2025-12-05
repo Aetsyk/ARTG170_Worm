@@ -1,0 +1,43 @@
+{
+  "$GMObject":"",
+  "%Name":"obj_collectible_mirror3",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
+  "managed":true,
+  "name":"obj_collectible_mirror3",
+  "overriddenProperties":[],
+  "parent":{
+    "name":"Puzzle",
+    "path":"folders/Objects/Chapter 2/Puzzle.yy",
+  },
+  "parentObjectId":{
+    "name":"obj_collectibleParent",
+    "path":"objects/obj_collectibleParent/obj_collectibleParent.yy",
+  },
+  "persistent":false,
+  "physicsAngularDamping":0.1,
+  "physicsDensity":0.5,
+  "physicsFriction":0.2,
+  "physicsGroup":1,
+  "physicsKinematic":false,
+  "physicsLinearDamping":0.1,
+  "physicsObject":false,
+  "physicsRestitution":0.1,
+  "physicsSensor":false,
+  "physicsShape":1,
+  "physicsShapePoints":[],
+  "physicsStartAwake":true,
+  "properties":[
+    {"$GMObjectProperty":"v2","%Name":"flavorText","filters":[],"listItems":[],"multiselect":false,"name":"flavorText","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_ft_mirror3","path":"objects/obj_ft_mirror3/obj_ft_mirror3.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_ft_mirror3","varType":5,},
+  ],
+  "resourceType":"GMObject",
+  "resourceVersion":"2.0",
+  "solid":false,
+  "spriteId":{
+    "name":"spr_textbox",
+    "path":"sprites/spr_textbox/spr_textbox.yy",
+  },
+  "spriteMaskId":null,
+  "visible":false,
+}

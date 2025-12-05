@@ -4,7 +4,9 @@
   "eventList":[],
   "managed":true,
   "name":"obj_mirrorShard3",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_paperTest","path":"objects/obj_paperTest/obj_paperTest.yy",},"propertyId":{"name":"selfPortion","path":"objects/obj_paperTest/obj_paperTest.yy",},"resource":{"name":"obj_mirrorShard3","path":"objects/obj_mirrorShard3/obj_mirrorShard3.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_mirrorShard3",},
+  ],
   "parent":{
     "name":"Puzzle",
     "path":"folders/Objects/Chapter 2/Puzzle.yy",

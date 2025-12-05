@@ -6,4 +6,4 @@ if (!instance_exists(obj_bgSound)) {
     instance_create_layer(0, 0, "Assets", obj_bgSound);
 }
 
-instance_activate_object(obj_char_coward); 
+instance_activate_object(obj_char_coward);

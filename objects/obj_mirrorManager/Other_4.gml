@@ -1,4 +1,6 @@
 if (room == bathroom_mirror) {
+	layer_set_visible(layer_get_id("Assets_Portrait"), false);
+	
 	if (global.inventory.getItemIndex("mirror1") > -1) {
 		array_push(availableShards, mirrorShard1);
 	}

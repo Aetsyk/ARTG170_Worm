@@ -26,8 +26,9 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"successDialogue","filters":[],"listItems":[],"multiselect":false,"name":"successDialogue","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_player_uses_key","path":"objects/obj_player_uses_key/obj_player_uses_key.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_player_uses_key","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"dialogue2","filters":[],"listItems":[],"multiselect":false,"name":"dialogue2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_ft_paintingFallen","path":"objects/obj_ft_paintingFallen/obj_ft_paintingFallen.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_ft_paintingFallen","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"inventoryManager","filters":[],"listItems":[],"multiselect":false,"name":"inventoryManager","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_inventory","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"dialogue1","filters":[],"listItems":[],"multiselect":false,"name":"dialogue1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_ft_paintingWall","path":"objects/obj_ft_paintingWall/obj_ft_paintingWall.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_ft_paintingWall","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

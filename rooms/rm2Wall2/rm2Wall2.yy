@@ -10,6 +10,8 @@
     {"name":"inst_38E7E30D2","path":"rooms/rm2Wall2/rm2Wall2.yy",},
     {"name":"inst_7779274F","path":"rooms/rm2Wall2/rm2Wall2.yy",},
     {"name":"inst_7049123","path":"rooms/rm2Wall2/rm2Wall2.yy",},
+    {"name":"inst_5285C43F","path":"rooms/rm2Wall2/rm2Wall2.yy",},
+    {"name":"inst_98D8888","path":"rooms/rm2Wall2/rm2Wall2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -22,6 +24,8 @@
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.671875,"scaleY":3.390625,"x":1763.5,"y":514.0,},
         {"$GMRInstance":"v4","%Name":"inst_7779274F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7779274F","objectId":{"name":"obj_painting_wall","path":"objects/obj_painting_wall/obj_painting_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":17.4375,"scaleY":7.8125,"x":848.0,"y":389.0,},
         {"$GMRInstance":"v4","%Name":"inst_7049123","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7049123","objectId":{"name":"obj_painting_fallen","path":"objects/obj_painting_fallen/obj_painting_fallen.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":6.928893,"scaleX":13.375,"scaleY":4.0625,"x":766.3778,"y":804.79553,},
+        {"$GMRInstance":"v4","%Name":"inst_5285C43F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5285C43F","objectId":{"name":"obj_ft_paintingWall","path":"objects/obj_ft_paintingWall/obj_ft_paintingWall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":208.0,"y":85.0,},
+        {"$GMRInstance":"v4","%Name":"inst_98D8888","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_98D8888","objectId":{"name":"obj_ft_paintingFallen","path":"objects/obj_ft_paintingFallen/obj_ft_paintingFallen.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":247.0,"y":139.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_OpenPainting","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_1FD5A79F","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_1FD5A79F","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2222222,"scaleY":1.2222222,"spriteId":{"name":"Rm2Wall2_open","path":"sprites/Rm2Wall2_open/Rm2Wall2_open.yy",},"x":416.0,"y":192.0,},

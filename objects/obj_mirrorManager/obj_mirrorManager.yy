@@ -4,6 +4,7 @@
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_mirrorManager",
@@ -31,6 +32,7 @@
     {"$GMObjectProperty":"v2","%Name":"mirrorShard2","filters":[],"listItems":[],"multiselect":false,"name":"mirrorShard2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_mirrorShard2","path":"objects/obj_mirrorShard2/obj_mirrorShard2.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_mirrorShard2","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"mirrorShard3","filters":[],"listItems":[],"multiselect":false,"name":"mirrorShard3","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_mirrorShard3","path":"objects/obj_mirrorShard3/obj_mirrorShard3.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_mirrorShard3","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"mirrorShard4","filters":[],"listItems":[],"multiselect":false,"name":"mirrorShard4","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_mirrorShard4","path":"objects/obj_mirrorShard4/obj_mirrorShard4.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_mirrorShard4","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"timer","filters":[],"listItems":[],"multiselect":false,"name":"timer","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_timer_mirror","path":"objects/obj_timer_mirror/obj_timer_mirror.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_timer_mirror","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
