@@ -7,7 +7,8 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_75E40BF7_2_1_1_1","path":"rooms/rm2Wall4/rm2Wall4.yy",},
-    {"name":"inst_39D32F48","path":"rooms/rm2Wall4/rm2Wall4.yy",},
+    {"name":"inst_292012C1","path":"rooms/rm2Wall4/rm2Wall4.yy",},
+    {"name":"inst_72D5033F","path":"rooms/rm2Wall4/rm2Wall4.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -15,7 +16,8 @@
         {"$GMRInstance":"v4","%Name":"inst_75E40BF7_2_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_75E40BF7_2_1_1_1","objectId":{"name":"obj_clickzone_warpL","path":"objects/obj_clickzone_warpL/obj_clickzone_warpL.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_clickzone_warpL","path":"objects/obj_clickzone_warpL/obj_clickzone_warpL.yy",},"propertyId":{"name":"destination","path":"objects/obj_clickzone_warpL/obj_clickzone_warpL.yy",},"resource":{"name":"rm2Wall3","path":"rooms/rm2Wall3/rm2Wall3.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm2Wall3",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.671875,"scaleY":3.390625,"x":156.0,"y":514.0,},
-        {"$GMRInstance":"v4","%Name":"inst_39D32F48","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_39D32F48","objectId":{"name":"obj_collectible_mushroom","path":"objects/obj_collectible_mushroom/obj_collectible_mushroom.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1012.0,"y":572.0,},
+        {"$GMRInstance":"v4","%Name":"inst_292012C1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_292012C1","objectId":{"name":"obj_ft_shroom1","path":"objects/obj_ft_shroom1/obj_ft_shroom1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":490.0,"y":495.0,},
+        {"$GMRInstance":"v4","%Name":"inst_72D5033F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_72D5033F","objectId":{"name":"obj_ft_shroom2","path":"objects/obj_ft_shroom2/obj_ft_shroom2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":549.0,"y":371.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_10AF0DEE","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_10AF0DEE","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2222222,"scaleY":1.2222222,"spriteId":{"name":"Rm2Wall4","path":"sprites/Rm2Wall4/Rm2Wall4.yy",},"x":416.0,"y":192.0,},

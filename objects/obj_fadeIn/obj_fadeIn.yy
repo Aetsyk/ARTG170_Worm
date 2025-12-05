@@ -9,8 +9,8 @@
   "name":"obj_fadeIn",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Transitions",
+    "path":"folders/Objects/Transitions.yy",
   },
   "parentObjectId":null,
   "persistent":true,

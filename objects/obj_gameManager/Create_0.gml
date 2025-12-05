@@ -26,3 +26,5 @@ global.seenCompletion = false;
 global.seenCowardDialogue1 = false;
 global.startedChapter2 = false;
 global.ateShroom = false;
+global.isTripping = 0;
+global.paintingState = "wall";

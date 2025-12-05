@@ -29,7 +29,8 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v2","%Name":"dialogue1","filters":[],"listItems":[],"multiselect":false,"name":"dialogue1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_coward_firstInteraction","path":"objects/obj_coward_firstInteraction/obj_coward_firstInteraction.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_coward_firstInteraction","varType":5,},
-    {"$GMObjectProperty":"v2","%Name":"inventoryManager","filters":[],"listItems":[],"multiselect":false,"name":"inventoryManager","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_inventory","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"dialogue2","filters":[],"listItems":[],"multiselect":false,"name":"dialogue2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_coward_mushroomInteraction","path":"objects/obj_coward_mushroomInteraction/obj_coward_mushroomInteraction.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_coward_mushroomInteraction","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"repeatDialogue","filters":[],"listItems":[],"multiselect":false,"name":"repeatDialogue","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_coward_repeat","path":"objects/obj_coward_repeat/obj_coward_repeat.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_coward_repeat","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

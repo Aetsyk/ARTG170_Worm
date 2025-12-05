@@ -1,1 +1,1 @@
-room_goto(rm2Wall1);
+timer.timerOn = true;

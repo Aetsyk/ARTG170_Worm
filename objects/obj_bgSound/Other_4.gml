@@ -5,7 +5,7 @@ if (room == rm_area3 && !audio_is_playing(sfx_clock)) {
 	}
 }
 
-if (room == rm_ending || room == rm2Wall1) {
+if (room == rm_ending || (room == rm2Wall1 && !global.startedChapter2)) {
 	audio_stop_all();
 }
 
