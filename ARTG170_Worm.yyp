@@ -196,6 +196,7 @@
     {"id":{"name":"sfx_eating","path":"sounds/sfx_eating/sfx_eating.yy",},},
     {"id":{"name":"sfx_interact","path":"sounds/sfx_interact/sfx_interact.yy",},},
     {"id":{"name":"sfx_positive","path":"sounds/sfx_positive/sfx_positive.yy",},},
+    {"id":{"name":"credits","path":"sprites/credits/credits.yy",},},
     {"id":{"name":"DoorCode","path":"sprites/DoorCode/DoorCode.yy",},},
     {"id":{"name":"gif_wavy","path":"sprites/gif_wavy/gif_wavy.yy",},},
     {"id":{"name":"LeBath_zoomIn","path":"sprites/LeBath_zoomIn/LeBath_zoomIn.yy",},},

@@ -1,4 +1,6 @@
 if (global.openedDoor && !global.startedChapter2) {
+	global.inventory.consume("entNote");
+	global.inventory.consume("romNote");
 	room_goto(rm_ending);
 } else if (global.startedChapter2) {
 	audio_play_sound(sfx_doorSlam, 10, false);

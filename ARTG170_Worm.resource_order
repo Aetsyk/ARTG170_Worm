@@ -155,6 +155,7 @@
     {"name":"sfx_doorSlam","order":5,"path":"sounds/sfx_doorSlam/sfx_doorSlam.yy",},
     {"name":"sfx_eating","order":7,"path":"sounds/sfx_eating/sfx_eating.yy",},
     {"name":"sfx_positive","order":1,"path":"sounds/sfx_positive/sfx_positive.yy",},
+    {"name":"credits","order":26,"path":"sprites/credits/credits.yy",},
     {"name":"DoorCode","order":23,"path":"sprites/DoorCode/DoorCode.yy",},
     {"name":"gif_wavy","order":14,"path":"sprites/gif_wavy/gif_wavy.yy",},
     {"name":"LeBath_zoomIn","order":20,"path":"sprites/LeBath_zoomIn/LeBath_zoomIn.yy",},
