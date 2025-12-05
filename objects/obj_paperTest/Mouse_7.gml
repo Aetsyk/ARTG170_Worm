@@ -9,7 +9,7 @@ if (!isComplete) {
 	if (x >= targetX - offsetSpace && x <= targetX + offsetSpace &&
 	    y >= targetY - offsetSpace && y <= targetY + offsetSpace) {
 		isComplete = true;
-		array_push(mirrorManager, selfPortion);
+		array_push(mirrorManager.completedParts, selfPortion);
 		mirrorManager.mirrorState++;
 		x = targetX;
 		y = targetY;

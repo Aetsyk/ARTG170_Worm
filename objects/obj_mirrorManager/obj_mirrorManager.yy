@@ -33,6 +33,7 @@
     {"$GMObjectProperty":"v2","%Name":"mirrorShard3","filters":[],"listItems":[],"multiselect":false,"name":"mirrorShard3","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_mirrorShard3","path":"objects/obj_mirrorShard3/obj_mirrorShard3.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_mirrorShard3","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"mirrorShard4","filters":[],"listItems":[],"multiselect":false,"name":"mirrorShard4","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_mirrorShard4","path":"objects/obj_mirrorShard4/obj_mirrorShard4.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_mirrorShard4","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"timer","filters":[],"listItems":[],"multiselect":false,"name":"timer","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_timer_mirror","path":"objects/obj_timer_mirror/obj_timer_mirror.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_timer_mirror","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"inventoryManager","filters":[],"listItems":[],"multiselect":false,"name":"inventoryManager","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_inventory","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

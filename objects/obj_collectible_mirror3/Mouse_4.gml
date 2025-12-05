@@ -1,4 +1,4 @@
-if (!global.gotMirror3) {
+if (!global.gotMirror3 && !global.dialoguePlaying) {
 	global.gotMirror3 = true;
 	global.inventory.add("mirror3", spr_tiny_mirrorPiece3);
 	flavorText.startDialogue = true;
