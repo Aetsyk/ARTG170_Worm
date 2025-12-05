@@ -9,7 +9,7 @@ if (!instance_exists(obj_bgSound)) {
 instance_activate_object(obj_char_coward); 
 
 var visibleLayer = layer_get_id("Assets");
-switch (obj_mirrorManager.mirrorState) {
+switch (global.mirrorState) {
 	case 0:
 		break;
 	case 1:

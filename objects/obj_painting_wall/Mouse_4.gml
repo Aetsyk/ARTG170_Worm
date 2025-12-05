@@ -14,11 +14,6 @@ if (global.paintingState == "wall") {
 	
 		var layer_id = layer_get_id("Assets_OpenPainting");
 		layer_set_visible(layer_id, true);
-	} else {
-		if (!instance_exists(dialogue2)) {
-			instance_create_layer(0, 0, "Instances", dialogue2);
-		}
-		dialogue2.startDialogue = true;
 	}
 } else {
 	room_goto(rm_ending2);
