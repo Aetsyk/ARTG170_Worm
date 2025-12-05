@@ -14,6 +14,7 @@
     {"name":"inst_58582D7C","path":"rooms/rm2Wall3/rm2Wall3.yy",},
     {"name":"inst_709AC5F9","path":"rooms/rm2Wall3/rm2Wall3.yy",},
     {"name":"inst_55B75735","path":"rooms/rm2Wall3/rm2Wall3.yy",},
+    {"name":"inst_24CF775B","path":"rooms/rm2Wall3/rm2Wall3.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -32,6 +33,7 @@
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.046834793,"scaleY":0.046834785,"x":611.7092,"y":713.0772,},
         {"$GMRInstance":"v4","%Name":"inst_709AC5F9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_709AC5F9","objectId":{"name":"obj_ft_mirror1","path":"objects/obj_ft_mirror1/obj_ft_mirror1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":530.0,"y":324.0,},
         {"$GMRInstance":"v4","%Name":"inst_55B75735","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_55B75735","objectId":{"name":"obj_mirrorCompletion_reaction","path":"objects/obj_mirrorCompletion_reaction/obj_mirrorCompletion_reaction.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":524.0,"y":538.0,},
+        {"$GMRInstance":"v4","%Name":"inst_24CF775B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_24CF775B","objectId":{"name":"obj_ft_lockedBathroom","path":"objects/obj_ft_lockedBathroom/obj_ft_lockedBathroom.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":518.0,"y":453.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_30932034","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_30932034","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2222222,"scaleY":1.2222222,"spriteId":{"name":"Rm2Wall3","path":"sprites/Rm2Wall3/Rm2Wall3.yy",},"x":416.0,"y":192.0,},
