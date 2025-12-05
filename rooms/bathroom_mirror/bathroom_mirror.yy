@@ -8,11 +8,11 @@
   "instanceCreationOrder":[
     {"name":"inst_68AC1CD1","path":"rooms/bathroom_mirror/bathroom_mirror.yy",},
     {"name":"inst_2FE4EDB2","path":"rooms/bathroom_mirror/bathroom_mirror.yy",},
-    {"name":"inst_6042961D","path":"rooms/bathroom_mirror/bathroom_mirror.yy",},
     {"name":"inst_DF7E9AC","path":"rooms/bathroom_mirror/bathroom_mirror.yy",},
     {"name":"inst_694E2A15","path":"rooms/bathroom_mirror/bathroom_mirror.yy",},
     {"name":"inst_5F119A9","path":"rooms/bathroom_mirror/bathroom_mirror.yy",},
     {"name":"inst_25E18F24","path":"rooms/bathroom_mirror/bathroom_mirror.yy",},
+    {"name":"inst_40705C2","path":"rooms/bathroom_mirror/bathroom_mirror.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -24,10 +24,6 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_paperTest","path":"objects/obj_paperTest/obj_paperTest.yy",},"propertyId":{"name":"targetX","path":"objects/obj_paperTest/obj_paperTest.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"488",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_paperTest","path":"objects/obj_paperTest/obj_paperTest.yy",},"propertyId":{"name":"targetY","path":"objects/obj_paperTest/obj_paperTest.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"264",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.32161894,"scaleY":0.27613285,"x":824.32574,"y":445.40656,},
-        {"$GMRInstance":"v4","%Name":"inst_6042961D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6042961D","objectId":{"name":"obj_mirrorShard2","path":"objects/obj_mirrorShard2/obj_mirrorShard2.yy",},"properties":[
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_paperTest","path":"objects/obj_paperTest/obj_paperTest.yy",},"propertyId":{"name":"targetX","path":"objects/obj_paperTest/obj_paperTest.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"488",},
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_paperTest","path":"objects/obj_paperTest/obj_paperTest.yy",},"propertyId":{"name":"targetY","path":"objects/obj_paperTest/obj_paperTest.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"264",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.32306913,"scaleY":0.27636775,"x":915.6066,"y":-75.0,},
         {"$GMRInstance":"v4","%Name":"inst_DF7E9AC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_DF7E9AC","objectId":{"name":"obj_mirrorShard3","path":"objects/obj_mirrorShard3/obj_mirrorShard3.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_paperTest","path":"objects/obj_paperTest/obj_paperTest.yy",},"propertyId":{"name":"targetX","path":"objects/obj_paperTest/obj_paperTest.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"488",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_paperTest","path":"objects/obj_paperTest/obj_paperTest.yy",},"propertyId":{"name":"targetY","path":"objects/obj_paperTest/obj_paperTest.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"264",},
@@ -38,6 +34,10 @@
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.32592592,"scaleY":0.27633247,"x":933.0,"y":376.6261,},
         {"$GMRInstance":"v4","%Name":"inst_5F119A9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5F119A9","objectId":{"name":"obj_mirrorManager","path":"objects/obj_mirrorManager/obj_mirrorManager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":108.0,"y":84.0,},
         {"$GMRInstance":"v4","%Name":"inst_25E18F24","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_25E18F24","objectId":{"name":"obj_clickOrderManager","path":"objects/obj_clickOrderManager/obj_clickOrderManager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1764.0,"y":297.0,},
+        {"$GMRInstance":"v4","%Name":"inst_40705C2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_40705C2","objectId":{"name":"obj_mirrorShard2","path":"objects/obj_mirrorShard2/obj_mirrorShard2.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_paperTest","path":"objects/obj_paperTest/obj_paperTest.yy",},"propertyId":{"name":"targetX","path":"objects/obj_paperTest/obj_paperTest.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"490",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_paperTest","path":"objects/obj_paperTest/obj_paperTest.yy",},"propertyId":{"name":"targetY","path":"objects/obj_paperTest/obj_paperTest.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"464",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.3175926,"scaleY":0.27447915,"x":914.17413,"y":132.31253,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_Portrait","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_536037BB","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_536037BB","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.32106417,"scaleY":0.2746226,"spriteId":{"name":"MirrorPortrait","path":"sprites/MirrorPortrait/MirrorPortrait.yy",},"x":488.0,"y":266.0,},
